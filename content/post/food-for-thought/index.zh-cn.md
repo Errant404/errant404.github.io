@@ -5,14 +5,14 @@ date: 2023-08-09T00:07:01+08:00
 image: "after a bath-65204496-0.png"
 math: 
 license: 
-hidden: false
+hidden: true
 comments: true
-draft: true
+draft: false
 ---
 
 互联网一直是有记忆的，我会在这里持续收录一些我看过的并且自认为值得深思的句子和存档。
 
-## **[clowwindy](https://github.com/clowwindy)**
+## [clowwindy](https://github.com/clowwindy)
 
 ### [关于 ShadowsocksR](https://github.com/shadowsocks/shadowsocks-windows/issues/293#issuecomment-132253168)
 
@@ -53,4 +53,14 @@ draft: true
 > I believe you guys will make great stuff with Network Extensions.
 >
 > Cheers!
+
+## [3Blue1Brown](https://space.bilibili.com/88461692)
+
+### [汉明码part2，优雅的全貌](https://www.bilibili.com/video/av415055882/)
+
+> 聪明的想法往往看起来尤其简洁，甚至会让人们以为理所当然。
 >
+> 但这绝对不简单，聪明的想法看似太简单的原因，是因为我们只看到了最终的结果，清理掉了过程中的杂乱，缄口不提其中的错误岔路，一笔带过解决问题的伊始，和前路上无穷的可以探索的可能性，包括所有的这一切。
+> 但是大体上这总是成立的，
+>
+> 而对于一些特别的发明和发现而言，还有第二个更深层的原因——我们会忘记欣赏。
