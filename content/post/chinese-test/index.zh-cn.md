@@ -2,6 +2,7 @@
 title: Hello World!
 description: 你好！世界
 date: 2020-09-09
+draft: true
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 ---

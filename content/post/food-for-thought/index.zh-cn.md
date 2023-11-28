@@ -9,8 +9,9 @@ hidden: true
 comments: true
 draft: false
 ---
-
 互联网一直是有记忆的，我会在这里持续收录一些我看过的并且自认为值得深思的句子和存档。
+
+如果你能看到我的这篇文章，说明你对我应该比较好奇，毕竟你甚至打开了我博客的源文件，然后意识到了这里隐藏了一篇文章。当然，也有可能是搜索引擎指向了这里。不过这一切都无所谓，我欢迎你进一步地认识我或者与我交流，你可以联系我的 telegram 账号，ID: Errant404
 
 ## [clowwindy](https://github.com/clowwindy)
 
@@ -29,7 +30,6 @@ draft: false
 > 最适合这个民族的其实是一群小白围着大大转，大大通过小白的夸奖获得自我满足，然后小白的吃喝拉撒都包给大大解决的模式。通过这个项目我感觉我已经彻底认识到这个民族的前面为什么会有一堵墙了。没有墙哪来的大大。所以到处都是什么附件回帖可见，等级多少用户组可见，一个论坛一个大大供小白跪舔，不需要政府造墙，网民也会自发造墙。这尼玛连做个翻墙软件都要造墙，真是令人叹为观止。这是一个造了几千年墙的保守的农耕民族，缺乏对别人的基本尊重，不愿意分享，喜欢遮遮掩掩，喜欢小圈子抱团，大概这些传统是改不掉了吧。
 >
 > 现在维护这些项目已经越来越让我感到无趣。我还是努力工作，好好养家，早日肉翻吧。
->
 
 ### [关于 shadowsocks.com](https://web.archive.org/web/20150207182555/http://www.v2ex.com:80/t/166417)
 
@@ -40,11 +40,9 @@ draft: false
 > 顺便回答几个其它的问题吧。
 >
 > 1. 为什么项目的文档和网站是英文的？开源项目用英文来维护本来就是一个约定俗成的做法。网络审查和屏蔽不是一个国家的事情，而是一个世界性的问题。这些项目有很多其它国家的用户，也有一些国外的大牛作出过宝贵的贡献。
->
 > 2. 参与的人只是凭兴趣做自己喜欢的事情，如果你的 issue 不像是一种思考和贡献，而更像是咨询客服，那被关掉了不要觉得惊讶。
->
 
-### [clowwindy's wish](https://web.archive.org/web/20150822042959/https://github.com/shadowsocks/shadowsocks-iOS/issues/124#issuecomment-133630294)
+### [clowwindy&#39;s wish](https://web.archive.org/web/20150822042959/https://github.com/shadowsocks/shadowsocks-iOS/issues/124#issuecomment-133630294)
 
 > Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey.
 >

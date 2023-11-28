@@ -7,65 +7,8 @@
 :root {
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
-    --base-font-family: "Noto Sans", var(--sys-font-family), var(--zh-font-family), sans-serif;
-    --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-}
-/* 布局 */
-.container {
-  margin-left: auto;
-  margin-right: auto;
-
-  .left-sidebar {
-      order: -3;
-      max-width: var(--left-sidebar-max-width);
-      width: 100%;
-  }
-
-  .right-sidebar {
-      order: -1;
-      max-width: var(--right-sidebar-max-width);
-
-      /// Display right sidebar when min-width: lg
-      @include respond(lg) {
-          display: flex;
-      }
-  }
-
-  &.extended {
-      @include respond(md) {
-          max-width: 1024px;
-          --left-sidebar-max-width: 25%;
-          --right-sidebar-max-width: 30%;
-      }
-
-      @include respond(lg) {
-          max-width: 1280px;
-          --left-sidebar-max-width: 20%;
-          --right-sidebar-max-width: 30%;
-      }
-
-      @include respond(xl) {
-          max-width: 1536px;
-          --left-sidebar-max-width: 10%;
-          --right-sidebar-max-width: 25%;
-      }
-  }
-
-  &.compact {
-      @include respond(md) {
-          --left-sidebar-max-width: 25%;
-          max-width: 768px;
-      }
-
-      @include respond(lg) {
-          max-width: 1024px;
-          --left-sidebar-max-width: 20%;
-      }
-
-      @include respond(xl) {
-          max-width: 1280px;
-      }
-  }
+    --base-font-family: var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --code-font-family: "Cascadia Code", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 /* 链接 */
 @media (min-width: map-get($breakpoints, lg)) {

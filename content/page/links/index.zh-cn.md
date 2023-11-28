@@ -5,6 +5,10 @@ links:
     description: 脑袋里只装了棉花糖的凄惨残页 | 好想好想被爱啊 | Android 开发者 | 情绪化
     website: https://blog.canyie.top/
     image: https://avatars.githubusercontent.com/u/31466456
+  - title: weishu
+    description: 骨灰级 Android 开发 | You Deserve A Better Life.
+    website: https://weishu.me/
+    image: https://avatars.githubusercontent.com/u/4233744
   - title: chinggg
     description: curious but honest, naive but patient.
     website: https://chinggg.github.io/
@@ -17,10 +21,6 @@ links:
     description: This is an apple. I like apples. Apples are good for our health. :)
     website: https://github.com/StarOnTheSky
     image: https://avatars.githubusercontent.com/u/51866924
-  - title: Lizzz
-    description: " "
-    website: https://github.com/LIZ-ZZJ
-    image: https://avatars.githubusercontent.com/u/48705197
 menu:
     main: 
         weight: -50
