@@ -1,4 +1,4 @@
-baseurl: https://errant404.github.io
+baseurl: https://blog.errant.top
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
