@@ -1,5 +1,5 @@
 baseurl: https://blog.errant.top
-languageCode: en-us
+languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
 title: Errant's blog
@@ -10,7 +10,7 @@ languages:
         languageName: 中文
         title: Errant's blog
         params:
-            description: 要有光。
+            description: Let there be light.
         weight: 1
     en:
         languageCode: en
@@ -35,7 +35,7 @@ DefaultContentLanguage: zh-cn
 hasCJKLanguage: true
 
 permalinks:
-    post: /post/:slug/
+    post: /p/:slug/
     page: /:slug/
 
 params:

@@ -8,8 +8,6 @@ menu:
             icon: user
 ---
 
-## 关于我
-
 Hi，我是 Errant404，简称 Errant。
 
 ### 用户名含义
