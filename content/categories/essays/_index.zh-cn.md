@@ -1,7 +1,7 @@
 ---
-title: "随笔"
+title: 随笔
 description: 
-slug: "documents"
+slug: essays
 style:
     background: "#2a9d8f"
     color: "#fff"

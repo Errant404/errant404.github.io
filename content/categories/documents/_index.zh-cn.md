@@ -1,8 +1,8 @@
 ---
-title: "文档"
+title: 文档
 image: パチュリー-63299817-0.jpeg
 description: 
-slug: "documents"
+slug: documents
 style:
     background: "#2a9d8f"
     color: "#fff"

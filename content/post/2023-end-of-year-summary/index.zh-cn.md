@@ -1,5 +1,6 @@
 ---
 title: "人生不如一句波特莱尔 - 2023 年终小结"
+slug: 2023-end-of-year-summary
 description: 
 date: 2023-12-31T23:54:24+08:00
 image: after a bath-65204496-0.png

@@ -1,14 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+SC);
 /* 全局设置 */
 :root {
     // 行内代码颜色
-    --code-background-color: #f2f2f2;
+    --code-background-color: #e7e7e7;
 }
 /* 全局字体 */
 :root {
-    --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
+    --sys-font-family: --apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
     --base-font-family: var(--sys-font-family), var(--zh-font-family), sans-serif;
-    --code-font-family: "Cascadia Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+    --code-font-family: "Jetbrains Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 /* 链接 */
 @media (min-width: map-get($breakpoints, lg)) {

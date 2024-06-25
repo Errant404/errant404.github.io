@@ -1,5 +1,6 @@
 ---
 title: 关于
+slug: about
 image:  
 menu:
     main: 
@@ -10,13 +11,13 @@ menu:
 
 Hi，我是 Errant404，简称 Errant。
 
-### 用户名含义
+## 用户名含义
 
-#### errant
+### errant
 
 > 以下内容引自 [Wiktionary](https://en.wiktionary.org/wiki/errant)
 >
-> ##### Adjective
+> #### Adjective
 >
 > **errant** (*[comparative](https://en.wiktionary.org/wiki/Appendix:Glossary#comparative)* **[more](https://en.wiktionary.org/wiki/more#English) errant**, *[superlative](https://en.wiktionary.org/wiki/Appendix:Glossary#superlative)* **[most](https://en.wiktionary.org/wiki/most#English) errant**)
 >
@@ -30,13 +31,13 @@ Hi，我是 Errant404，简称 Errant。
 >    
 > 4. (*chiefly with a negative connotation, [obsolete](https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete)*) *Obsolete form of \*[arrant](https://en.wiktionary.org/wiki/arrant#English)\* (“[complete](https://en.wiktionary.org/wiki/complete#Adjective); [downright](https://en.wiktionary.org/wiki/downright#Adjective), [utter](https://en.wiktionary.org/wiki/utter#Adjective)”)*. 
 >
-> ##### Noun
+> #### Noun
 >
 > **errant** (*plural* **[errants](https://en.wiktionary.org/wiki/errants#English)**)
 >
 > 1. A [knight-errant](https://en.wiktionary.org/wiki/knight-errant).
 
-#### 404
+### 404
 
 > 取自 [HTTP 状态码](https://zh.wikipedia.org/wiki/HTTP状态码)中的 `404`
 

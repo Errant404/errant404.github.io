@@ -1,30 +1,10 @@
 baseurl: https://blog.errant.top
-languageCode: zh-cn
+languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: Errant's blog
-
-languages:
-    zh-cn:
-        languageCode: zh-cn
-        languageName: 中文
-        title: Errant's blog
-        params:
-            description: Let there be light.
-        weight: 1
-    en:
-        languageCode: en
-        languageName: English
-        title: Errant's blog
-        params:
-            description: Let there be light.
-        weight: 2
-
-# Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
-
-# GA Tracking ID
-googleAnalytics:
+copyright: Errant's Blog.
+enableRobotsTXT: true
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -34,8 +14,27 @@ DefaultContentLanguage: zh-cn
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
+languages:
+    en:
+        languageName: English
+        weight: 2
+    zh-cn:
+        languageName: 中文
+        title: Errant's blog
+        weight: 1
+        params:
+            description: Let there be light.
+
+services:
+    # Change it to your Disqus shortname before using
+    disqus:
+        shortname: "hugo-theme-stack"
+    # GA Tracking ID
+    googleAnalytics:
+        id: G-VFSBMX8K6Q
+
 permalinks:
-    post: /p/:slug/
+    post: /post/:/:slug/
     page: /:slug/
 
 params:
@@ -43,7 +42,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.png # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: favicon.png # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2022
@@ -58,8 +57,8 @@ params:
         subtitle: Let there be light.
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.jpg
+            local: false
+            src: https://avatars.githubusercontent.com/u/64823753
 
     article:
         math: false
@@ -70,8 +69,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
-        provider: disqus
+        enabled: true
+        provider: giscus
 
         disqusjs:
             shortname:
@@ -84,6 +83,12 @@ params:
             repo:
             issueTerm: pathname
             label:
+
+        beaudar:
+            repo:
+            issueTerm: pathname
+            label:
+            theme:        
 
         remark42:
             host:
@@ -126,13 +131,13 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
-            lightTheme:
-            darkTheme:
+            repo: Errant404/errant404.github.io
+            repoID: R_kgDOIpJ1Ig
+            category: Announcements
+            categoryID: DIC_kwDOIpJ1Is4CgXoy
+            mapping: pathname
+            lightTheme: light
+            darkTheme: dark
             reactionsEnabled: 1
             emitMetadata: 0
 
@@ -164,7 +169,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: 
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -189,7 +194,7 @@ params:
             enabled: true
 
 ### Custom menu
-### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
+### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: []
@@ -203,7 +208,7 @@ menu:
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com/erigidissimus
+          url: https://twitter.com/Errant_404
           params:
               icon: brand-twitter
 

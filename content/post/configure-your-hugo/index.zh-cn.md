@@ -1,5 +1,6 @@
 ---
 title: "配置你的 Hugo"
+slug: configure-your-hugo
 description: 
 date: 2023-08-04T21:11:59+08:00
 image: hugo-original-wordmark.svg
@@ -11,18 +12,14 @@ draft: false
 categories:
     - documents
 tags:
-    - Hugo
     - 博客
-    - 翻译
 ---
 
 本文为 Hugo 官方文档中 [configuration](https://gohugo.io/getting-started/configuration/) 部分的翻译，翻译时间为 2023/8/4，此时 Hugo 最新的 Release 版本为 v0.116.1，请注意文档的时效性。
 
-在翻译过程中难免可能会产生错译，如有发现，欢迎指出和修改，也欢迎帮助我同步翻译上游官方文档。
-
 ## 关于配置文件
 
-Hugo 使用`hugo.toml`, `hugo.yaml`，或者是 `hugo.json`（如果在根目录下被发现的话）作为默认的站点配置文件。
+Hugo 使用 `hugo.toml`, `hugo.yaml`，或者是 `hugo.json`（如果在根目录下被发现的话）作为默认的站点配置文件。
 
 用户可以选择使用命令行选项`--config`用一个或多个站点配置文件覆盖该默认值。
 

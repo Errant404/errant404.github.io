@@ -1,5 +1,6 @@
 ---
 title: 友链
+slug: links
 links:
   - title: 残页
     description: 脑袋里只装了棉花糖的凄惨残页 | 好想好想被爱啊 | Android 开发者 | 情绪化
@@ -29,7 +30,7 @@ menu:
 comments: false
 ---
 
-如果你想要让你的名字出现在下面, 请模仿下面的格式添加 `links` 部分到 frontmatter，然后通过私信或者 issues 告诉我。
+如果你想要让你的名字出现在下面，请模仿下面的格式添加 `links` 部分到 frontmatter，然后通过私信或者 issues 告诉我。
 
 也欢迎把下面的内容加入你的博客友链中。
 
