@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Errant's blog</title><link>https://blog.errant.top/</link><description>Recent content on Errant's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Errant's Blog.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:54:24 +0800</lastBuildDate><atom:link href="https://blog.errant.top/index.xml" rel="self" type="application/rss+xml"/><item><title>人生不如一句波特莱尔 - 2023 年终小结</title><link>https://blog.errant.top/posts/2023-end-of-year-summary/</link><pubDate>Sun, 31 Dec 2023 23:54:24 +0800</pubDate><guid>https://blog.errant.top/posts/2023-end-of-year-summary/</guid><description>&lt;img src="https://blog.errant.top/posts/2023-end-of-year-summary/after%20a%20bath-65204496-0.png" alt="Featured image of post 人生不如一句波特莱尔 - 2023 年终小结" />&lt;p>因为我的临场写作能力不太行，但是我总觉得有点写这篇文章的必要，所以这篇文章我是从 12 月份初就开始动笔来写了，平时有想法就当场动手写下来。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Errant's blog</title><link>https://blog.errant.top/</link><description>Recent content on Errant's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Errant's Blog.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:54:24 +0800</lastBuildDate><atom:link href="https://blog.errant.top/index.xml" rel="self" type="application/rss+xml"/><item><title>人生不如一句波特莱尔 - 2023 年终小结</title><link>https://blog.errant.top/post/2023-end-of-year-summary/</link><pubDate>Sun, 31 Dec 2023 23:54:24 +0800</pubDate><guid>https://blog.errant.top/post/2023-end-of-year-summary/</guid><description>&lt;img src="https://blog.errant.top/post/2023-end-of-year-summary/after%20a%20bath-65204496-0.png" alt="Featured image of post 人生不如一句波特莱尔 - 2023 年终小结" />&lt;p>因为我的临场写作能力不太行，但是我总觉得有点写这篇文章的必要，所以这篇文章我是从 12 月份初就开始动笔来写了，平时有想法就当场动手写下来。&lt;/p>
 &lt;h2 id="我做了什么">我做了什么
 &lt;/h2>&lt;h3 id="拥抱-linux">拥抱 Linux
 &lt;/h3>&lt;p>从去年 12 月末，我算是第一次成功在我的笔记本电脑上安装并运行带有正常网卡驱动的 Linux。由于笔记本硬件型号很新，此前我使用过的 Linux 发行版都不能很好地适配我的硬件。&lt;/p>
@@ -55,7 +55,7 @@
 &lt;/h3>&lt;ul>
 &lt;li>学习生活过得充实、快乐、优雅&lt;/li>
 &lt;li>成为一个更加完善的人&lt;/li>
-&lt;/ul></description></item><item><title>竹林中</title><link>https://blog.errant.top/posts/in-a-grove/</link><pubDate>Fri, 18 Aug 2023 22:44:41 +0800</pubDate><guid>https://blog.errant.top/posts/in-a-grove/</guid><description>&lt;img src="https://blog.errant.top/posts/in-a-grove/Rashomon.png" alt="Featured image of post 竹林中" />&lt;blockquote>
+&lt;/ul></description></item><item><title>竹林中</title><link>https://blog.errant.top/post/in-a-grove/</link><pubDate>Fri, 18 Aug 2023 22:44:41 +0800</pubDate><guid>https://blog.errant.top/post/in-a-grove/</guid><description>&lt;img src="https://blog.errant.top/post/in-a-grove/Rashomon.png" alt="Featured image of post 竹林中" />&lt;blockquote>
 &lt;p>在我阅读过的文学作品中，我尤其钟爱芥川的短篇小说，芥川的一篇小说往往禁得住数十次的阅读。而在《罗生门》的众多译本中，我尤其钟爱高勤慧老师的译本，读起来有股质朴之感，本文《竹林中》是黑泽明导演的惊世伟作电影《罗生门》的原作，感兴趣的同学也可以去找电影看看。&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
@@ -115,7 +115,7 @@ text-align: right;
 &lt;/style>
 &lt;div class="right-align">
 &lt;p>大正十年（1921）十二月&lt;/p>
-&lt;/div></description></item><item><title>配置你的 Hugo</title><link>https://blog.errant.top/posts/configure-your-hugo/</link><pubDate>Fri, 04 Aug 2023 21:11:59 +0800</pubDate><guid>https://blog.errant.top/posts/configure-your-hugo/</guid><description>&lt;img src="https://blog.errant.top/posts/configure-your-hugo/hugo-original-wordmark.svg" alt="Featured image of post 配置你的 Hugo" />&lt;p>本文为 Hugo 官方文档中 &lt;a class="link" href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener"
+&lt;/div></description></item><item><title>配置你的 Hugo</title><link>https://blog.errant.top/post/configure-your-hugo/</link><pubDate>Fri, 04 Aug 2023 21:11:59 +0800</pubDate><guid>https://blog.errant.top/post/configure-your-hugo/</guid><description>&lt;img src="https://blog.errant.top/post/configure-your-hugo/hugo-original-wordmark.svg" alt="Featured image of post 配置你的 Hugo" />&lt;p>本文为 Hugo 官方文档中 &lt;a class="link" href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener"
 >configuration&lt;/a> 部分的翻译，翻译时间为 2023/8/4，此时 Hugo 最新的 Release 版本为 v0.116.1，请注意文档的时效性。&lt;/p>
 &lt;h2 id="关于配置文件">关于配置文件
 &lt;/h2>&lt;p>Hugo 使用 &lt;code>hugo.toml&lt;/code>, &lt;code>hugo.yaml&lt;/code>，或者是 &lt;code>hugo.json&lt;/code>（如果在根目录下被发现的话）作为默认的站点配置文件。&lt;/p>
