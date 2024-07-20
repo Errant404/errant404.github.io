@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Errant's blog</title><link>https://blog.errant.top/</link><description>Recent content on Errant's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Errant's Blog.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:54:24 +0800</lastBuildDate><atom:link href="https://blog.errant.top/index.xml" rel="self" type="application/rss+xml"/><item><title>人生不如一句波特莱尔 - 2023 年终小结</title><link>https://blog.errant.top/post/2023-end-of-year-summary/</link><pubDate>Sun, 31 Dec 2023 23:54:24 +0800</pubDate><guid>https://blog.errant.top/post/2023-end-of-year-summary/</guid><description>&lt;img src="https://blog.errant.top/post/2023-end-of-year-summary/after%20a%20bath-65204496-0.png" alt="Featured image of post 人生不如一句波特莱尔 - 2023 年终小结" />&lt;p>因为我的临场写作能力不太行，但是我总觉得有点写这篇文章的必要，所以这篇文章我是从 12 月份初就开始动笔来写了，平时有想法就当场动手写下来。&lt;/p>
+&lt;h2 id="我做了什么">我做了什么
+&lt;/h2>&lt;h3 id="拥抱-linux">拥抱 Linux
+&lt;/h3>&lt;p>从去年 12 月末，我算是第一次成功在我的笔记本电脑上安装并运行带有正常网卡驱动的 Linux。由于笔记本硬件型号很新，此前我使用过的 Linux 发行版都不能很好地适配我的硬件。&lt;/p>
+&lt;p>直到那天我在上海虹桥站等车，无所事事时，我在惠普论坛上看到有人发帖说，Arch Linux 能在与我相同型号的笔记本上正常工作，并且网卡没有异常。于是我在高铁上兴奋了一路，回到家中就直接开始折腾怎么安装了。&lt;/p>
+&lt;p>由于此前折腾 Android 的经验，我对分区、引导这些概念已经有所了解，折腾了两天，总算是安装上了。后来我也几乎就定居在了 Arch Linux，告别了 Windows 那抽象的资源占用、异常的显示画面和一睡就醒不来的休眠。&lt;/p>
+&lt;h3 id="拥有自己的服务器和域名">拥有自己的服务器和域名
+&lt;/h3>&lt;p>出于自己对更多服务的需求，我在双 11 期间购买了一台 VPS，黑色星期五期间购买了一个域名，前前后后搭建了不少自用的服务，比如说 RSS 订阅服务器、Alist 等等。&lt;/p>
+&lt;h2 id="我看到了什么">我看到了什么
+&lt;/h2>&lt;p>最初的最初，我只是对折腾 Android 感兴趣，也没学过编程，但是以此为机缘，接触并了解了许多开源项目（Magisk, LSPosed, KernelSU），也认识了很多优秀的开发者（单向认识），其中给我影响最大的是 &lt;a class="link" href="https://github.com/canyie" target="_blank" rel="noopener"
+>canyie&lt;/a>。&lt;/p>
+&lt;p>两年前，大概也是这个时候，我读了她写的年终小结，17 岁中专在读的她便能一人写出 pine 这样的项目，成为众多优秀开源项目的 Contributor，她的优秀给我留下了巨大的震撼。她让我意识到，成为一名优秀的开发者并不是遥不可及的。&lt;/p>
+&lt;p>半年以后，我参加了高考，来了这所大学，又过了一年，分流进入计算机学院，即使做好了心理准备，等到自己亲眼见识了，我还是挺失望的，不是因为学院条件，而是因为其他因素。&lt;/p>
+&lt;p>这里缺少与我兴趣相投的人，从技术爱好，到艺术品味，我发现我总是与周围的人格格不入，这种感觉在高中以来就有，但是那时还有学习这个共同话题可以缓解。而到了大学，这种感受就变得尤为明显。每一次你做了一件你认为很有成就感或者很有意思的事情时，抬头却发现无人能与你分享快乐，你笑着笑着，自己的心却凉了。我自己也有一部分原因，所以还有一部分失望，是对我自己的。我的情商并不是很高，并不擅长与别人沟通，除非对方讨论的话题正好是我了解或者感兴趣的。所以我和很多人只是能交谈，但是不能交心。&lt;/p>
+&lt;p>但是这并不意味着我没有在学校里看到优秀的同学，恰恰相反，我认识了很多优秀的人，他们用行动刷新我那狭隘的认识，告诉我大学生涯是还可以这样过的，校训里的“自强不息”是这样做的。我们学院这样优秀的人并不少，他们或许是低调，&lt;del>也有可能只是在学院的评价指标眼里，他们的取得的优秀成果不如互联网+吧。&lt;/del>&lt;/p>
+&lt;p>过去的一年里，我还读过很多人的博客，透过博客，我看到的不仅仅是他们分享的技术，还有他们的思想与人格魅力。我至今也忘不了读完某人博客感慨良久的那个深夜。&lt;/p>
+&lt;h2 id="迷茫">迷茫
+&lt;/h2>&lt;p>但是别人的终究的是别人的，与我自己又有何关系？&lt;/p>
+&lt;p>我也不是一个脱离低俗趣味的人，更不是一个所谓“纯粹”的人。我好像做不到像其他人找到一件自己发自内心喜欢的工作，就好像我以前做过的所有的事当中，哪怕有快乐的，那也是哭中作乐，因此我并没有发现自己存在的价值。所以我很羡慕那些有理想，更有意志，有规划，有能力去一步一步实现的人。在别人寻找答案的时候，我却还在思考我该用我的生命去回答什么问题。&lt;/p>
+&lt;p>你说我活着是为了生存，那倒也不至于，但是我能说我活着是为了追求吗？我已经迷茫了18年，难道还要接着迷茫下去吗？&lt;/p>
+&lt;p>高考结束以前，我过的是简单的线性人生，可光是这样简单的人生，最后的结果也是不尽人意。那高考结束后的人生呢？我意识到我已经不在是一位学生了，而是一个人，因此除了学业上的问题，我还得思考并解决我作为一个人的问题。但这些问题本来应该从小开始思考，因为在成为一名学生之前，我首先是一个人。我也依稀记得小时候自己也的确对这些问题作出过思考，但最后想不出，不了了之，然后问题被遗忘，最终被淹没在作业中。&lt;/p>
+&lt;p>而这个问题持续到了现在，并且接下来的一年里，我还得接着去寻找问题的答案。这个问题拖得越久，由迷茫转换而来的焦虑就越严重，并且无法逃避，只能接受，某种程度上给我带来了不小的精神影响。&lt;/p>
+&lt;p>不过迷茫也只是思想上的，这并不妨碍我学习并获取知识，但是自己终究会有一天要亲自面对这个问题，只有找到这个问题的答案，我才有动力去找到并实现我的人生，我才能认为我接下来走的每一步是自己想走的并且是自己能走的路，而不是盲目从众、被家人指点或者被社会逼迫走上的路。&lt;/p>
+&lt;h2 id="感想">感想
+&lt;/h2>&lt;h3 id="学习">学习
+&lt;/h3>&lt;p>知识可以轻易获得，但是思想与经验需要时间的积淀。面对成体系的知识，除了系统的学习，还需要陈年累月的实践经验来提高自己对知识的理解掌握和应用能力。&lt;/p>
+&lt;p>相比于大学教材的纷繁琐碎、杂乱无章，人民教育出版社的高中物理教材，我认为是我至今见过的所有国内教材中最优秀的，语言描述清晰，内容通俗易懂，甚至展现物理在人文方面的魅力，真的做到了引导学生培养物理思维。等到我高三回头翻阅这本书的时候，经常感叹编者的智慧，书中编者的很多经典的话，我至今也忘不了。我反对那些说学物理对以后工作没用帮助的观点，物理作为一门基础学科，除了满足高考筛选人才的需要，更多地其实是用来培养一个人的科学思维模式，教会一个人如何科学严谨地思考、推导并解决问题，而物理本身只是作为教学过程选用的载体罢了。到了大学，教材里就再也找不到那种亲切和善谦逊而又严谨的感觉了。&lt;/p>
+&lt;p>比较可悲的是，当下的教育中并没有人强调这一点，大家似乎只是关心如何拿高分、如何让老师和家长满意、如何通过考试、如何去一个好大学、如何获得高绩点。他们在这样的学习过程中，丢失了原本学习的目的、学习的乐趣和学习的意义。现如今的大家似乎功利性都比较重，但是我觉得如果只是为了在社会上生存而盯着这些，是十分荒谬的一件事。人如果只是为了生存而存在于这个世界上，和其他动物有什么区别，那样活着有什么意思，等着当韭菜别被别人割吗？&lt;/p>
+&lt;h3 id="信息">信息
+&lt;/h3>&lt;p>我认为我们其实生活在一个信息相对越来越匮乏的时代。随着信息技术的爆炸式发展，世界上生产并存储下来的信息越来越多，看起来好像我们可获取的信息越来越多了，生活学习越来越方便了，但是事实并不是这样。&lt;/p>
+&lt;p>由于信息垄断的存在，我们所能获得的有价值的信息占这个世界生产的中信息比例越来越小了。我们获取信息的确越来越多，但是不论是信息量还是信息质量，与那些被限制访问的信息相比，我们普通人能获取的信息都差得太多了。而这种信息差的存在拉开了人与人之间距离，影响的已经不仅仅是所谓的见识，更是思想。&lt;/p>
+&lt;p>而信息量大还导致我们寻找到正确信息变得越来越困难，增加了寻找正确信息的难度和时间（说的就是你 CSDN）。此外由于信息整体质量的下滑，习惯网络娱乐文化的我们接受高质量信息的能力也开始下降，许多人现在甚至无法静下心来读一本书。&lt;/p>
+&lt;p>信息爆炸并没有带来福音，更别提还有简中互联网这种东西的存在。&lt;/p>
+&lt;h3 id="生活">生活
+&lt;/h3>&lt;p>“人生不如一句波特莱尔。”芥川的这句话道尽了他在人间的万般感受。&lt;/p>
+&lt;p>过去一年也算经历了一些事，但我不论抱着怎样的想法和感受，总会和这句话产生共鸣，就把这句话当作年终小结的标题好了。&lt;/p>
+&lt;h2 id="目标与愿望">目标与愿望
+&lt;/h2>&lt;p>新的一年最好还是给自己列几个目标，这里列一个 To-Do List 等到 2024 年终小结时过来结算&lt;/p>
+&lt;h3 id="小目标">小目标
+&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 读三本名著&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 不当夜猫子（可选）&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 按时起床&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 自我积淀，锻炼出扎实的计算机学科内功&lt;/li>
+&lt;/ul>
+&lt;h3 id="大目标">大目标
+&lt;/h3>&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> 养成用代码解决日常生活中问题的习惯&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 养成专注的习惯&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 结识更多的同好，&lt;del>如果能找到另一半就更好了&lt;/del>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 拥有能拿得出手的小开源项目（&lt;del>哪怕是个玩具也行啊&lt;/del>，可选）&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> 享受实现上述目标过程中的每一步&lt;/li>
+&lt;/ul>
+&lt;h3 id="愿望">愿望
+&lt;/h3>&lt;ul>
+&lt;li>学习生活过得充实、快乐、优雅&lt;/li>
+&lt;li>成为一个更加完善的人&lt;/li>
+&lt;/ul></description></item><item><title>竹林中</title><link>https://blog.errant.top/post/in-a-grove/</link><pubDate>Fri, 18 Aug 2023 22:44:41 +0800</pubDate><guid>https://blog.errant.top/post/in-a-grove/</guid><description>&lt;img src="https://blog.errant.top/post/in-a-grove/Rashomon.png" alt="Featured image of post 竹林中" />&lt;blockquote>
+&lt;p>在我阅读过的文学作品中，我尤其钟爱芥川的短篇小说，芥川的一篇小说往往禁得住数十次的阅读。而在《罗生门》的众多译本中，我尤其钟爱高勤慧老师的译本，读起来有股质朴之感，本文《竹林中》是黑泽明导演的惊世伟作电影《罗生门》的原作，感兴趣的同学也可以去找电影看看。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>以下文段引自《罗生门》（高勤慧译）译者序：&lt;/p>
+&lt;p>芥川舍弃了原作《今昔物语》中抽象的说教，能匠心独运，推陈出新，从中抉发古今人类天性中缺憾的一面，写成一篇寓意深刻的哲理短章。在表现这一类主题的作品中，如以内容的丰富、寓意的深刻、手法的别致、技巧的完美而论，当推《竹林中》一篇：&lt;/p>
+&lt;p>竹林中发生一起凶杀案，有个年轻武士被杀，美貌的妻子遭到大盗的凌辱。可是大盗与妻子各执一词，都自供是凶手。而死者亡灵借灵媒之口却说是自杀身亡。那么究竟谁是凶手呢？小说没有结论。整篇作品由七人的口供组成，从各自的角度提供不同的说法，案情扑朔迷离，疑团重重，悬念始终未予解决。七段口供，以三个当事人的最为关键，其中必有人将真情隐去，补以谎话，或每人的话里都有真有假，真假参半。那么，何以要说谎呢？可见，每人心里都有不可告人的隐衷。&lt;/p>
+&lt;p>作者的用意似乎想说明：人常要用谎言来文过饰非，真相常被歪曲隐没，以致事物真相不可认识。芥川在小说中，暗喻人心微妙，难以捉摸，表现一种怀疑主义情绪，他自称“一向是个怀疑派”。（《河童》十五）小说故意留下空白，耐人寻味。写的虽是一桩情杀案，却不是通俗的破案小说，而是通过这个没有结论的案子，引导读者去探求人性的弱点，深意自见。芥川在探讨人生、考察人性的过程中，发现了人世间的丑恶。“周围尽是丑恶。自己也丑恶……面对周围的丑恶，活着就是一种痛苦的事。”（一九一五年二月二十八日致恒藤恭）所以，他不能不感到失望。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="樵夫供词">樵夫供词
+&lt;/h2>&lt;p>是呀，发现那具尸体的，正是小的。今儿个早上，小的像往常一样，去后山砍柴，结果在山后的竹林里，看到那具尸体。老爷问在哪儿吗？那地方离山科大路约莫一里来地，是片竹子和小杉树的杂树林，很少有人迹。&lt;/p>
+&lt;p>尸身穿一件浅蓝色绸子褂，头上戴了一顶城里人的细纱帽，仰天躺在地上。虽说只挨了一刀，可正好扎在心口，尸体旁的竹叶子全给染红了。不，血已经不流了。伤口好像也干了。而且有只大马蝇死死叮在上面，连我走近都不理会。&lt;/p>
+&lt;p>没看见刀子什么的吗？没有，什么都没看见。就是旁边杉树根上，留下一条绳子。后来……对了，除了绳子，还有一把梳子。尸体旁边没别的，就这两样东西。不过，有一片地里，荒草和竹叶给踩得很乱，看样子那男子被杀之前，有过一场恶斗。&lt;/p>
+&lt;p>怎么，没有马？——那地方，马压根儿进不去。能走马的路，在竹林外面哪。&lt;/p>
+&lt;h2 id="行脚僧供词">行脚僧供词
+&lt;/h2>&lt;p>贫僧昨日确曾遇见死者。昨天……大约是晌午时分吧。地点是从关山快到山科的路上。他与一个骑马女子同去关山。女子竹笠上遮着面纱，所以贫僧不曾得见她的容貌。只看见那身紫色绸夹衫。马是桃花马……马鬃剃得光光的，不会记错。个头有多高吗？总有四尺多吧……贫僧乃出家之人，这些事情不甚了然。那男子……不，佩着刀，还带着弓箭。特别是黑漆箭筒里，插了二十多支箭，要说这点，贫僧至今还历历在目。&lt;/p>
+&lt;p>做梦也想不到，那男子会有如此结局。真可谓人生如朝露，性命似电光。呜呼哀哉，贫僧实无话可说。&lt;/p>
+&lt;h2 id="捕快供词">捕快供词
+&lt;/h2>&lt;p>大人问小人捉到的那家伙吗？他确确实实是臭名远扬的大盗多襄丸。小人去抓的时候，他正在粟田石桥上哼呀叫痛，大概是从马上摔下来的缘故。什么时辰吗？是昨晚初更时分。上次逮他的时候，穿的也是这件藏青褂子，佩着这把雕花大刀。不过，这一回，如大人所见，除了刀，还带着弓箭。是吗？被害人也带着刀箭……那么，行凶杀人的，必是多襄丸无疑。皮弓，黑漆箭筒，十七支鹰羽箭矢……这些想必都是被害人的。是的，正如大人所说，马是秃鬃桃花马。那畜生摔他下来，是他报应。马拖着长长的缰绳，在石桥前面不远的地方，啃着路旁的青草。&lt;/p>
+&lt;p>这个叫多襄丸的家伙，在出没京畿一带的强盗中，最是好色之徒。去年秋天，鸟部寺宾头卢后山，有个像是去进香的妇人连同丫鬟一起被杀，据说就是这家伙犯的案。这回，这男的若又是他下的毒手，那骑桃花马的小女子，究竟给弄到什么地方去了，把她怎么样了，就不得而知了。也许小人多嘴，还望大人明察。&lt;/p>
+&lt;h2 id="老妪供词">老妪供词
+&lt;/h2>&lt;p>是的，死者正是小女的丈夫。他并非京都人士。是若狭国府的武士，名叫金泽武弘，二十六岁。不，他性情温和，不可能惹祸招事的。&lt;/p>
+&lt;p>小女吗？闺名真砂，年方十九。倒是刚强好胜，不亚于男子。除了武弘以外，没跟别的男人相好。小小的瓜子脸，肤色微黑，左眼角上有颗痣。&lt;/p>
+&lt;p>武弘昨天是同小女一起动身去若狭的。没料到竟出了这样的事，真是造孽哟！女婿死了，认倒霉吧，可小女究竟怎样了？老身实在担心得很。恳求青天大老爷，不论好歹，务必找到小女的下落才好。说来说去，最可恨的便是那个叫什么多襄丸的狗强盗，不但杀了我女婿，连小女也……（余下之词，泣不成声）。&lt;/p>
+&lt;h2 id="多襄丸供词">多襄丸供词
+&lt;/h2>&lt;p>杀那男的，是我；可女的，我没杀。那她去哪儿啦？——我怎么知道！且慢，大老爷。不管再怎么拷问，不知道的事也还是招不出来呀。再说，咱家既然落到这一步，好汉做事好汉当，决不隐瞒什么。&lt;/p>
+&lt;p>我是昨天过午，遇见那小两口的。正巧一阵风吹过，掀起竹笠上的面纱，一眼瞟见那小娘儿们的姿容。可一眨眼——就再无缘得见了。八成是这个缘故吧，觉得她美得好似天仙，顿时打定主意，即使要开杀戒，除去她男人，老子也非把她弄到手不可。&lt;/p>
+&lt;p>什么？杀个把人，压根儿不像你们想的，算不得一回事。反正得把女人抢到手，那男的就非杀不可。只不过我杀人用的是腰上的大刀，可你们杀人，不用刀，用权，用钱，有时甚至是几句假仁假义的话，就能要人的命。不错，杀人不见血，人也活得挺风光，可总归是凶手哟。要讲罪孽，到底谁个坏，是你们？还是我？鬼才知道！（挖苦地一笑）&lt;/p>
+&lt;p>当然，只要能把那小娘儿们抢到手，不杀她男人也没什么。说老实话，按我当时的心思，只想把她弄到手，能不杀那男的，就尽量不杀。可是，在山科大道上，这种事，没法动手。于是，就想法子，把那小两口诱进山里。&lt;/p>
+&lt;p>这倒不是什么难事。我跟他们一搭上伴，就瞎编了一套话，说对面山里有座古墓，掘出来一看，竟有许多古镜和宝刀，我不想让人知道，就偷偷埋在后山的竹林里。若是有人要，随便哪件，打算便宜出手。——不知不觉间，男的对我这套话渐渐动了心。这后来嘛——你说怎么着？人的贪心真叫可怕！不出半个时辰，小两口竟掉转马头，跟我上山了。&lt;/p>
+&lt;p>到了竹林前，我推说，宝物就埋在里边，进去瞧瞧吧。男的财迷心窍，自然答应。可女的，连马也不肯下，说：我就在这儿等。那竹林子密密匝匝，也难怪她要说这话。老实说，这倒正中咱家下怀。于是便让那小娘儿们留下，我跟她男人一起钻进了林子。&lt;/p>
+&lt;p>开头林子里尽是竹子，过去十多丈地，才是一片稀疏的杉树林。—要下手，那地方再合适不过了。我一面拨开竹丛，一面煞有介事地骗他说：宝物就埋在杉树下面。男的信以为真，就朝看得见杉树的地方拼命赶去。不大会儿工夫，便来到竹子稀疏，但有几棵杉树的地方。—说时迟那时快，我一下便把他撂倒在地。还真不愧是个佩刀的武士，力气像是蛮大的哩。可是不意着了我的道儿，他也没辙。我当即把他绑在一棵杉树根上。绳子吗？这正是干我们这行的法宝，说不准什么时候要翻墙越户，随时拴在腰上。当然啦，我用竹叶塞了他一嘴，叫他出不了声。这样，就不用怕什么了。&lt;/p>
+&lt;p>对付过男的，回头去找那小娘儿们，谎报她男人好像得了急症，叫她快去看看。不用说，她也中了圈套。便摘下竹笠，由我拽着她的手，拉进竹林深处。到了那里，她一眼就看见了—丈夫给绑在杉树根上。霎时间，她从怀里掏出一把明晃晃的匕首来。老子从来没见过那么烈性的女人。当时要是一个不小心，没准肚子上就会挨一刀。虽说我闪开了身子，可她豁出命来，一阵乱刺，保不住哪儿得挂点彩。不过，老子是多襄丸，何须拔刀，结果还不是将她的匕首打落在地。一个女子再烈性，没了家伙，也就傻了眼了。我终于称心如意，用不着杀那男人，也能把他小媳妇儿弄到手。&lt;/p>
+&lt;p>用不着杀她男人—不错，我本来就没打算杀。可是，当我撇下趴在地上嘤嘤啜泣的小娘儿们，正想从竹林里溜之大吉，不料她一把抓住我胳膊，发疯似的缠上身来。只听她断断续续嚷道：不是你强盗死，便是我丈夫亡，你们两个总得死一个。让两个男人看我出丑，比死还难受。接着，她又气喘吁吁地说：你们两个，谁活我就跟谁去。这时，我才对她男人萌生杀机。（阴郁的兴奋）&lt;/p>
+&lt;p>听我这么说来，你们必定把我看得比你们还残忍。那是因为你们没看到她的脸庞，尤其没看到那一瞬间，她那对火烧火燎的眼珠子。我盯着她的眼看，心想，就是天打雷劈，也要娶她为妻。我心里只转着这个念头。我绝非你们大人先生所想的，什么无耻下流，淫邪色欲。如果当时仅止于色欲，而无一点向往，我早一脚踢开她，逃之夭夭了，我的刀也不会沾上她男人的血。可是，在幽暗的竹林里，我凝目望着她的脸庞，刹那间，主意已定：不杀她男人，誓不离开此地。&lt;/p>
+&lt;p>不过，即便开杀戒，也不愿用卑鄙手段。我松开绑，叫他拿刀跟我一决生死（杉树脚下的绳子，就是那时随手一扔，忘在那里的）。他脸色惨白，拔出那把大刀。一声不吭，一腔怒火，猛地一刀朝我劈来。——决斗的结果，也不必再说了。到第二十三回合，我一刀刺穿他的胸膛。请注意——是第二十三回合！只有这一点，我对他至今还十分佩服。因为跟我交手，能打到二十回合的，普天之下也只他一人啊！&lt;/p>
+&lt;p>男人一倒下，我提着鲜血淋漓的大刀，回头去找那小娘儿们。谁知，哪儿都没有。逃到什么地方去啦？我在杉树林里找来找去。地上的竹叶，连一点踪迹都没留下。侧耳听听，只听见她男人临终前在噎气。&lt;/p>
+&lt;p>说不定我们打得难分难解之际，她早就溜出竹林搬救兵去了。为自己想，这可是性命攸关的事。当即捡起大刀和弓箭，又回到原来的山路。小娘儿们的马还在那里静静地吃草。后来的事，也就不必多说了。只是进京之前，那把刀，给我卖掉了。——我要招的，便是这些。横竖我脑袋总有一天会悬在狱门前示众的，尽管处我极刑好啦（态度昂然）！&lt;/p>
+&lt;h2 id="女人在清水寺忏悔">女人在清水寺忏悔
+&lt;/h2>&lt;p>那个穿藏青褂子的汉子把我糟蹋够了，瞧着我那给捆在一旁的丈夫，又是讥讽又是嘲笑，我丈夫心里该多难受啊。不论他怎么挣扎，绳子却只有越勒越紧的份儿。我不由得连滚带爬，跑到丈夫身边去。不，我是想要跑过去。但是，那汉子却冷不防把我踢倒在地。就在那一刹那，我看见丈夫眼里，闪着无法形容的光芒。我不知该怎样形容好，至今一想起来，都禁不住要打战。他嘴里说不出话，可是他的心思，全在那一瞥的眼神里表达了出来。他那灼灼的目光，既不是愤怒，也不是悲哀——只有对我的轻蔑，真个是冰寒雪冷呀！挨那汉子一脚不算什么，可丈夫的目光，却叫我万万受不了。我不由得惨叫一声，昏了过去。&lt;/p>
+&lt;p>过了一会儿，才恢复神志，穿藏青褂子的汉子已不知去向。只留下我丈夫还捆在杉树根上。我从洒满竹叶的地上抬起身子，凝目望着丈夫的面孔。他的眼神同方才一样，丝毫没有改变。依然是那么冰寒雪冷的，轻蔑之中又加上憎恶的神色。那时我的心呀，又羞愧，又悲哀，又气愤，简直不知怎么说才好。我晃晃悠悠地站了起来，走到丈夫跟前。&lt;/p>
+&lt;p>“官人！事情已然如此，我是没法再跟你一起过了。狠狠心，还是死了干净。可是……可是你也得给我死掉！你亲眼看我出丑，我就不能让你再活下去。”&lt;/p>
+&lt;p>我好不费劲才说出这番话来。但是我丈夫仍是不胜憎恶地瞪着我。我的心都快碎了。我克制住自己，去找他的刀。也许叫那强盗拿走了，竹林里不仅没大刀，连弓箭也找不见。幸好那把匕首还在我脚边。我挥动匕首，最后对他说：&lt;/p>
+&lt;p>“那么，就把命交给我吧。为妻的随后就来陪你。”&lt;/p>
+&lt;p>听了这话，我丈夫动了动嘴。嘴里塞满了落叶，当然听不见一点声音。可我一看，立即明白他的意思。他对我依然不胜轻蔑，只说了一句：杀吧！我丈夫穿的是浅蓝色的绸褂，我懵懵懂懂，朝他胸口猛一刀扎了下去。&lt;/p>
+&lt;p>这时，我大概又晕了过去。等到回过气来，向四处望了望，丈夫还绑在那里，早已断了气。一缕夕阳，透过杉竹的隙缝，射在他惨白的脸上。我忍气吞声，松开尸身上的绳子。接下来——接下来，怎么样呢？我真没勇气说出口来。要死，我已没了那份勇气！我想过种种办法，拿匕首往脖子上抹，在山脚下投湖，试试都没死成。这么苟活人世，实在没脸见人。（惨然一笑。）我这不争气的女人，恐怕连大慈大悲的观音菩萨都不肯度化的。我这个杀夫的女人呀，我这个强盗糟蹋过的女人呀，究竟怎么办才好啊！我究竟，我……（突然痛哭不已）。&lt;/p>
+&lt;h2 id="亡灵借巫女之口所作供词强盗">亡灵借巫女之口所作供词强盗
+&lt;/h2>&lt;p>将我妻子凌辱过后，坐在那里花言巧语，对她百般宽慰。我自然没法开口，身子还绑在杉树根上。可是，我一再向妻子以目示意：“千万别听他的，他说的全是谎话。”可她只管失神落魄，坐在落叶上望着膝头，一动也不动。那样子，分明对强盗的话，听得入了迷。我不禁妒火中烧。而强盗还在甜言蜜语，滔滔不绝：“你既失了身，和你丈夫，恐怕破镜就难圆了。与其跟他过那种日子，不如索性当我老婆，怎么样？咱家真正是爱煞你这俏冤家，才胆大包天，做出这种荒唐事儿。”——这狗强盗居然连这种话都不怕说出口。&lt;/p>
+&lt;p>听强盗这样一说，我妻子抬起她那张神迷意荡的面孔！我从来没见过妻有这样美丽。然而，我这娇美的妻子当着我——她那给人五花大绑的丈夫的面，是怎样回答强盗的呢？尽管我现在已魂归幽冥，可是一想起她的答话，仍不禁怒火中烧。她确是这样说的：“好吧，随你带我去哪儿都成。”（沉默有顷）&lt;/p>
+&lt;p>妻的罪孽何止于此。否则在这幽冥界，我也不至于这样痛苦了。她如梦如痴，让强盗拉着她手，正要走出竹林，猛一变脸，指着杉树下的我，说：“把他杀掉！有他活着，我就不能跟你。”她发狂似的连连喊着：“杀掉他！”这话好似一阵狂风，即便此刻也能将我一头刮进黑暗的深渊。这样可憎的话，有谁说得出？这样可诅咒的要求，又有谁听到过？哪怕就一次……（突然冷笑起来）连那个强盗听了，也不免大惊失色。妻拉住强盗的胳膊，一面喊着：“杀掉他！”强盗一声不响，望着她，没有说杀，也没有说不杀……就在这一念之间，他一脚将妻踢倒在落叶上。（又是一阵冷笑）抱着胳膊，镇静地望着我，说道：“这贱货，你打算怎么办？杀掉吗？还是放过她？回答呀，你只管点点头就行。杀掉？”—就凭这一句话，我已愿意饶恕强盗的罪孽。（又沉默良久）&lt;/p>
+&lt;p>趁我还在游移之际，妻大叫一声，随即逃向竹林深处。强盗立刻追了过去，似乎连她衣袖都没抓着。我像做梦似的，望着这一情景。妻逃走后，强盗捡起大刀和弓箭，将我身上的绳子割了一刀。“这回该咱家溜之大吉了。”——记得他的身影隐没在竹林外时，这样自语。然后，四周是一片沉寂。不时有一阵呜咽之声。我一面松开绳子，一面侧耳谛听。原来呜呜咽咽的，竟是我自家呀。（第三次长久沉默）&lt;/p>
+&lt;p>我疲惫不堪，好不容易才从杉树下站起身子。在我面前，妻掉下的那把匕首，正闪闪发亮。我捡起来，一刀刺进了胸膛，嘴里涌进一股血腥味，可是没有一丝儿痛苦。胸口渐渐发凉，四周也越发沉寂。啊，好静呀！山林的上空，连只小鸟都不肯飞来鸣啭。那杉竹的梢头，唯有一抹寂寂的夕阳。可是，夕阳也慢慢黯淡了下来。看不见杉，也看不见竹。我倒在地上，沉沉的静寂将我紧紧地包围。&lt;/p>
+&lt;p>这时，有人蹑足悄悄走近我身旁，我想看看是谁。然而，周围已暝色四合。是谁……谁的一只我看不见的手，轻轻拔去我胸口上的匕首。同时，我嘴里又是一阵血潮喷涌。从此，我永远沉沦在黑暗幽冥之中……&lt;/p>
+&lt;style>
+.right-align {
+text-align: right;
+}
+&lt;/style>
+&lt;div class="right-align">
+&lt;p>大正十年（1921）十二月&lt;/p>
+&lt;/div></description></item><item><title>配置你的 Hugo</title><link>https://blog.errant.top/post/configure-your-hugo/</link><pubDate>Fri, 04 Aug 2023 21:11:59 +0800</pubDate><guid>https://blog.errant.top/post/configure-your-hugo/</guid><description>&lt;img src="https://blog.errant.top/post/configure-your-hugo/hugo-original-wordmark.svg" alt="Featured image of post 配置你的 Hugo" />&lt;p>本文为 Hugo 官方文档中 &lt;a class="link" href="https://gohugo.io/getting-started/configuration/" target="_blank" rel="noopener"
+>configuration&lt;/a> 部分的翻译，翻译时间为 2023/8/4，此时 Hugo 最新的 Release 版本为 v0.116.1，请注意文档的时效性。&lt;/p>
+&lt;h2 id="关于配置文件">关于配置文件
+&lt;/h2>&lt;p>Hugo 使用 &lt;code>hugo.toml&lt;/code>, &lt;code>hugo.yaml&lt;/code>，或者是 &lt;code>hugo.json&lt;/code>（如果在根目录下被发现的话）作为默认的站点配置文件。&lt;/p>
+&lt;p>用户可以选择使用命令行选项&lt;code>--config&lt;/code>用一个或多个站点配置文件覆盖该默认值。&lt;/p>
+&lt;p>例如：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">hugo --config debugconfig.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo --config a.toml,b.toml,c.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote>
+&lt;p>多个站点配置文件可以作为逗号分隔的字符串指定给 &lt;code>--config&lt;/code> 选项。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="hugotoml-vs-configtoml">hugo.toml vs config.toml
+&lt;/h2>&lt;p>在 Hugo 0.110.0 版本中，我们将默认的配置基本文件名更改为&lt;code>hugo&lt;/code>，例如&lt;code>hugo.toml&lt;/code>。我们仍然会查找&lt;code>config.toml&lt;/code>等文件，但我们建议您最终将其重命名（但如果您想支持旧版本的 Hugo，则需要等待）。我们这样做的主要原因是让代码编辑器和构建工具更容易识别它作为 Hugo 配置文件和项目的标识。&lt;/p>
+&lt;h2 id="配置目录">配置目录
+&lt;/h2>&lt;p>除了使用单个站点配置文件外，您还可以使用&lt;code>configDir&lt;/code>目录（默认为&lt;code>config/&lt;/code>）来更轻松地组织和管理环境特定的设置。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>每个文件代表一个配置的根对象，例如&lt;code>params.toml&lt;/code>用于&lt;code>[Params]&lt;/code>，&lt;code>menu(s).toml&lt;/code>用于&lt;code>[Menu]&lt;/code>，&lt;code>languages.toml&lt;/code>用于&lt;code>[Languages]&lt;/code>等等&amp;hellip;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>每个文件的内容必须是顶级的，例如：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">Params&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">foo&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">bar&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>params.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">foo&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">bar&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>每个目录保存了一组文件，其中包含特定于某个环境的设置。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>文件可以进行本地化，以便成为特定语言的配置文件。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">├── config
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├── _default
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ ├── hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ ├── languages.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ ├── menus.en.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ ├── menus.zh.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ └── params.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├── production
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ ├── hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ │ └── params.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └── staging
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├── hugo.toml
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └── params.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>考虑上面的结构，在运行&lt;code>hugo --environment staging&lt;/code>命令时，Hugo 会使用&lt;code>config/_default&lt;/code>目录下的所有设置，并将&lt;code>staging&lt;/code>目录的设置合并在其之上。&lt;/p>
+&lt;p>我们通过一个例子来更好地理解。假设您正在为您的网站使用 Google Analytics。这需要在&lt;code>hugo.toml&lt;/code>文件中指定&lt;code>googleAnalytics = &amp;quot;G-XXXXXXXX&amp;quot;&lt;/code>。现在考虑以下情况：&lt;/p>
+&lt;ul>
+&lt;li>您不希望在开发环境，即&lt;code>localhost&lt;/code>中加载 Analytics 代码。&lt;/li>
+&lt;li>您想要为生产和演示环境使用不同的 Google Analytics ID，例如：
+&lt;ul>
+&lt;li>生产环境使用&lt;code>G-PPPPPPPP&lt;/code>&lt;/li>
+&lt;li>演示环境使用&lt;code>G-SSSSSSSS&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>根据上述情况，您需要配置您的&lt;code>hugo.toml&lt;/code>文件如下：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>在&lt;code>_default/hugo.toml&lt;/code>中，您根本不需要提及&lt;code>googleAnalytics&lt;/code>参数。这确保在开发服务器上运行&lt;code>hugo server&lt;/code>时不会加载任何 Google Analytics 代码。这有效是因为，默认情况下，当您运行&lt;code>hugo server&lt;/code>时，Hugo 会将&lt;code>Environment=development&lt;/code>，这将使用&lt;code>_default&lt;/code>文件夹中的配置文件。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>在&lt;code>production/hugo.toml&lt;/code>中，您只需要一行：&lt;/p>
+&lt;p>&lt;code>googleAnalytics = &amp;quot;G-PPPPPPPP&amp;quot;&lt;/code>&lt;/p>
+&lt;p>您无需在此配置文件中再次提及所有其他参数，如&lt;code>title&lt;/code>、&lt;code>baseURL&lt;/code>、&lt;code>theme&lt;/code>等等。您只需要提及与生产环境不同或新的参数。这是因为 Hugo 将把这个配置与&lt;code>_default/hugo.toml&lt;/code>进行&lt;strong>合并&lt;/strong>。现在，当您运行&lt;code>hugo&lt;/code>（构建命令）时，默认情况下 Hugo 会将&lt;code>Environment=production&lt;/code>，因此生产网站中将包含&lt;code>G-PPPPPPPP&lt;/code>的 Analytics 代码。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>类似地，在&lt;code>staging/hugo.toml&lt;/code>中，您只需要一行：&lt;/p>
+&lt;p>&lt;code>googleAnalytics = &amp;quot;G-SSSSSSSS&amp;quot;&lt;/code>&lt;/p>
+&lt;p>现在您需要告诉 Hugo 您正在使用演示环境。因此，您的构建命令应为&lt;code>hugo --environment staging&lt;/code>，这将在您的演示网站中加载&lt;code>G-SSSSSSSS&lt;/code>的Analytics代码。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>当使用&lt;code>hugo server&lt;/code>时，默认环境为&lt;strong>development&lt;/strong>，当使用&lt;code>hugo&lt;/code>命令时，默认环境为&lt;strong>production&lt;/strong>。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="合并主题配置">合并主题配置
+&lt;/h2>&lt;p>&lt;code>_merge&lt;/code>配置项可以有以下值：&lt;/p>
+&lt;p>&lt;strong>none&lt;/strong>&lt;/p>
+&lt;p>不进行合并。&lt;/p>
+&lt;p>&lt;strong>shallow&lt;/strong>&lt;/p>
+&lt;p>只添加新键的值。&lt;/p>
+&lt;p>&lt;strong>deep&lt;/strong>&lt;/p>
+&lt;p>添加新键的值，并合并现有的值。&lt;/p>
+&lt;p>请注意，您不需要像下面的默认设置那样冗长；如果未设置，较高层级的&lt;code>_merge&lt;/code>值将被继承。&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;span class="lnt">37
+&lt;/span>&lt;span class="lnt">38
+&lt;/span>&lt;span class="lnt">39
+&lt;/span>&lt;span class="lnt">40
+&lt;/span>&lt;span class="lnt">41
+&lt;/span>&lt;span class="lnt">42
+&lt;/span>&lt;span class="lnt">43
+&lt;/span>&lt;span class="lnt">44
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">build&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">caches&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">cascade&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">frontmatter&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">imaging&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">languages&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">en&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">menus&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">shallow&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">params&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">deep&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">markup&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">mediatypes&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">shallow&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">menus&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">shallow&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">minify&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">module&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">outputformats&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">shallow&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">params&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">deep&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">permalinks&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">privacy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">related&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">security&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">sitemap&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">taxonomies&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">_merge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">none&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="所有的配置项设置">所有的配置项设置
+&lt;/h2>&lt;p>以下是Hugo定义的变量的完整列表。用户可以选择覆盖其站点配置文件中的这些值。&lt;/p>
+&lt;h3 id="archetypedir">archetypeDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;archetypes&amp;rdquo;&lt;/p>
+&lt;p>Hugo 查找原型文件（内容模板）的目录。还可以参考&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-mounts" target="_blank" rel="noopener"
+>模块挂载配置&lt;/a>，以另一种方式配置这个目录（从 Hugo 0.56 版本开始）。&lt;/p>
+&lt;h3 id="assetdir">assetDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;assets&amp;rdquo;&lt;/p>
+&lt;p>Hugo 查找用于&lt;a class="link" href="https://gohugo.io/hugo-pipes/" target="_blank" rel="noopener"
+>Hugo Pipes&lt;/a> 的资源文件的目录。还可以参考&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-mounts" target="_blank" rel="noopener"
+>模块挂载配置&lt;/a>，以另一种方式配置这个目录（从 Hugo 0.56 版本开始）。&lt;/p>
+&lt;h3 id="baseurl">baseURL
+&lt;/h3>&lt;p>您发布的站点的绝对 URL（包括协议、主机、路径和斜杠），例如 &lt;code>https://www.example.org/docs/&lt;/code>。&lt;/p>
+&lt;h3 id="build">build
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-build" target="_blank" rel="noopener"
+>配置构建&lt;/a>。&lt;/p>
+&lt;h3 id="builddrafts-false">buildDrafts (false)
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>构建时是否包含草稿。&lt;/p>
+&lt;h3 id="buildexpired">buildExpired
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>是否包含已过期的内容。&lt;/p>
+&lt;h3 id="buildfuture">buildFuture
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>是否包含发布日期在未来的内容。&lt;/p>
+&lt;h3 id="caches">caches
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-file-caches" target="_blank" rel="noopener"
+>配置文件缓存&lt;/a>。&lt;/p>
+&lt;h3 id="cascade">cascade
+&lt;/h3>&lt;p>将默认配置值（前置元数据）传递给内容树中的页面。站点配置中的选项与页面前置元数据中的选项相同，请参阅&lt;a class="link" href="https://gohugo.io/content-management/front-matter#front-matter-cascade" target="_blank" rel="noopener"
+>前置元数据级联&lt;/a>。&lt;/p>
+&lt;h3 id="canonifyurls">canonifyURLs
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>启用后，将相对 URL 转换为绝对 URL。&lt;/p>
+&lt;h3 id="cleandestinationdir">cleanDestinationDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>构建时，删除目标中在静态目录中找不到的文件。&lt;/p>
+&lt;h3 id="contentdir">contentDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;content&amp;rdquo;&lt;/p>
+&lt;p>Hugo 读取内容文件的目录。还可以参考&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-mounts" target="_blank" rel="noopener"
+>模块挂载配置&lt;/a>，以另一种方式配置这个目录（从 Hugo 0.56 版本开始）。&lt;/p>
+&lt;h3 id="copyright">copyright
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;quot;&amp;quot;&lt;/p>
+&lt;p>版权声明，通常显示在网站的页脚。&lt;/p>
+&lt;h3 id="datadir">dataDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;data&amp;rdquo;&lt;/p>
+&lt;p>Hugo 读取数据文件的目录。还可以参考&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-mounts" target="_blank" rel="noopener"
+>模块挂载配置&lt;/a>，以另一种方式配置这个目录（从 Hugo 0.56 版本开始）。&lt;/p>
+&lt;h3 id="defaultcontentlanguage">defaultContentLanguage
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;en&amp;rdquo;&lt;/p>
+&lt;p>没有语言标识的内容将默认使用此语言。&lt;/p>
+&lt;h3 id="defaultcontentlanguageinsubdir">defaultContentLanguageInSubdir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>在子目录中呈现默认内容语言，例如 &lt;code>content/en/&lt;/code>。网站根目录 &lt;code>/&lt;/code> 将重定向到 &lt;code>/en/&lt;/code>。&lt;/p>
+&lt;h3 id="disablealiases">disableAliases
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>禁用别名重定向的生成。请注意，即使设置了 &lt;code>disableAliases&lt;/code>，别名本身仍将保留在页面中。使用此选项可以在 &lt;code>.htaccess&lt;/code>、Netlify 的 &lt;code>_redirects&lt;/code> 文件或类似的情况下生成 301 重定向。&lt;/p>
+&lt;h3 id="disablehugogeneratorinject">disableHugoGeneratorInject
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>Hugo 默认情况下会在&lt;em>首页&lt;/em>的 HTML 头部插入生成器元标签。您可以关闭它，但我们真的希望您不要这样做，因为这是观察 Hugo 的受欢迎程度的好方法。&lt;/p>
+&lt;h3 id="disablekinds">disableKinds
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> []&lt;/p>
+&lt;p>启用对指定的 &lt;em>Kinds&lt;/em> 的所有页面进行禁用。允许在此列表中使用的值有：&amp;ldquo;page&amp;rdquo;、&amp;ldquo;home&amp;rdquo;、&amp;ldquo;section&amp;rdquo;、&amp;ldquo;taxonomy&amp;rdquo;、&amp;ldquo;term&amp;rdquo;、&amp;ldquo;RSS&amp;rdquo;、&amp;ldquo;sitemap&amp;rdquo;、&amp;ldquo;robotsTXT&amp;rdquo;、&amp;ldquo;404&amp;rdquo;。&lt;/p>
+&lt;h3 id="disablelivereload">disableLiveReload
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>禁用浏览器窗口的自动实时重新加载。&lt;/p>
+&lt;h3 id="disablepathtolower">disablePathToLower
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>不要将 URL/路径转换为小写。&lt;/p>
+&lt;h3 id="enableemoji">enableEmoji
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>为页面内容启用 Emoji 表情符号支持；参见&lt;a class="link" href="https://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank" rel="noopener"
+>Emoji 表情符号秘笈&lt;/a>。&lt;/p>
+&lt;h3 id="enablegitinfo">enableGitInfo
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>为每个页面启用 &lt;code>.GitInfo&lt;/code> 对象（如果 Hugo 站点已通过 Git 进行版本控制）。这将使用内容文件的最后一次 git 提交日期更新每个页面的 &lt;code>Lastmod&lt;/code> 参数。&lt;/p>
+&lt;h3 id="enableinlineshortcodes">enableInlineShortcodes
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>启用行内短代码支持。参见&lt;a class="link" href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes" target="_blank" rel="noopener"
+>行内短代码&lt;/a>。&lt;/p>
+&lt;h3 id="enablemissingtranslationplaceholders">enableMissingTranslationPlaceholders
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>如果翻译缺失，显示一个占位符，而不是默认值或空字符串。&lt;/p>
+&lt;h3 id="enablerobotstxt">enableRobotsTXT
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>启用 &lt;code>robots.txt&lt;/code> 文件的生成。&lt;/p>
+&lt;h3 id="frontmatter">frontmatter
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-front-matter" target="_blank" rel="noopener"
+>前置元数据配置&lt;/a>。&lt;/p>
+&lt;h3 id="googleanalytics">googleAnalytics
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;quot;&amp;quot;&lt;/p>
+&lt;p>Google Analytics 跟踪 ID。&lt;/p>
+&lt;h3 id="hascjklanguage">hasCJKLanguage
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>如果为 true，则自动检测内容中的中文/日文/韩文语言。这将使 &lt;code>.Summary&lt;/code> 和 &lt;code>.WordCount&lt;/code> 对于 CJK 语言正确地工作。&lt;/p>
+&lt;h3 id="imaging">imaging
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/image-processing/#imaging-configuration" target="_blank" rel="noopener"
+>图像处理配置&lt;/a>。&lt;/p>
+&lt;h3 id="languagecode">languageCode
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;quot;&amp;quot;&lt;/p>
+&lt;p>由&lt;a class="link" href="https://datatracker.ietf.org/doc/html/rfc5646" target="_blank" rel="noopener"
+>RFC 5646&lt;/a> 定义的语言标签。此值用于填充：&lt;/p>
+&lt;ul>
+&lt;li>内部&lt;a class="link" href="https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/rss.xml" target="_blank" rel="noopener"
+>RSS 模板&lt;/a> 中的 &lt;code>&amp;lt;language&amp;gt;&lt;/code> 元素。&lt;/li>
+&lt;li>内部&lt;a class="link" href="https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/alias.html" target="_blank" rel="noopener"
+>别名模板&lt;/a> 中 &lt;code>&amp;lt;html&amp;gt;&lt;/code> 元素的 &lt;code>lang&lt;/code> 属性。&lt;/li>
+&lt;/ul>
+&lt;h3 id="languages">languages
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/multilingual/#configure-languages" target="_blank" rel="noopener"
+>配置语言&lt;/a>。&lt;/p>
+&lt;h3 id="disablelanguages">disableLanguages
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/multilingual/#disable-a-language" target="_blank" rel="noopener"
+>禁用语言&lt;/a>。&lt;/p>
+&lt;h3 id="markup">markup
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration-markup" target="_blank" rel="noopener"
+>配置标记&lt;/a>。&lt;/p>
+&lt;h3 id="mediatypes">mediaTypes
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/templates/output-formats/#media-types" target="_blank" rel="noopener"
+>配置媒体类型&lt;/a>。&lt;/p>
+&lt;h3 id="menus">menus
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/menus/#define-in-site-configuration" target="_blank" rel="noopener"
+>菜单&lt;/a>。&lt;/p>
+&lt;h3 id="minify">minify
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-minify" target="_blank" rel="noopener"
+>配置压缩&lt;/a>。&lt;/p>
+&lt;h3 id="module">module
+&lt;/h3>&lt;p>模块配置参见&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/" target="_blank" rel="noopener"
+>模块配置&lt;/a>。&lt;/p>
+&lt;h3 id="newcontenteditor">newContentEditor
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;quot;&amp;quot;&lt;/p>
+&lt;p>创建新内容时使用的编辑器。&lt;/p>
+&lt;h3 id="nochmod">noChmod
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>不同步文件的权限模式。&lt;/p>
+&lt;h3 id="notimes">noTimes
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>不同步文件的修改时间。&lt;/p>
+&lt;h3 id="outputformats">outputFormats
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-additional-output-formats" target="_blank" rel="noopener"
+>配置输出格式&lt;/a>。&lt;/p>
+&lt;h3 id="paginate">paginate
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> 10&lt;/p>
+&lt;p>默认的分页每页元素数目，参见&lt;a class="link" href="https://gohugo.io/templates/pagination/" target="_blank" rel="noopener"
+>分页&lt;/a>。&lt;/p>
+&lt;h3 id="paginatepath">paginatePath
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;page&amp;rdquo;&lt;/p>
+&lt;p>用于分页的路径元素（&lt;code>https://example.com/page/2&lt;/code>）。&lt;/p>
+&lt;h3 id="permalinks">permalinks
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/urls/#permalinks" target="_blank" rel="noopener"
+>内容管理&lt;/a>。&lt;/p>
+&lt;h3 id="pluralizelisttitles">pluralizeListTitles
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> true&lt;/p>
+&lt;p>在列表中使用复数形式的标题。&lt;/p>
+&lt;h3 id="publishdir">publishDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;public&amp;rdquo;&lt;/p>
+&lt;p>Hugo 将写入最终静态站点的目录（包含 HTML 文件等）。&lt;/p>
+&lt;h3 id="related">related
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/related/#configure-related-content" target="_blank" rel="noopener"
+>相关内容&lt;/a>。&lt;/p>
+&lt;h3 id="relativeurls">relativeURLs
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>启用后，所有相对 URL 将相对于内容根目录。请注意，这不影响绝对 URL。&lt;/p>
+&lt;h3 id="reflinkserrorlevel">refLinksErrorLevel
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;ERROR&amp;rdquo;&lt;/p>
+&lt;p>使用 &lt;code>ref&lt;/code> 或 &lt;code>relref&lt;/code> 解析页面链接时，如果无法解析链接，将使用此日志级别记录。有效值为 &lt;code>ERROR&lt;/code>（默认值）或 &lt;code>WARNING&lt;/code>。任何 &lt;code>ERROR&lt;/code> 都会导致构建失败（&lt;code>exit -1&lt;/code>）。&lt;/p>
+&lt;h3 id="reflinksnotfoundurl">refLinksNotFoundURL
+&lt;/h3>&lt;p>用于在 &lt;code>ref&lt;/code> 或 &lt;code>relref&lt;/code> 中找不到页面引用时使用的占位符 URL。使用原样。&lt;/p>
+&lt;h3 id="removepathaccents">removePathAccents
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>从内容路径中的&lt;a class="link" href="https://en.wikipedia.org/wiki/Precomposed_character" target="_blank" rel="noopener"
+>组合字符&lt;/a>中删除&lt;a class="link" href="https://www.compart.com/en/unicode/category/Mn" target="_blank" rel="noopener"
+>非间隔标记&lt;/a>。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">content/post/hügó.md --&amp;gt; https://example.org/post/hugo/
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="rsslimit">rssLimit
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> -1（无限制）&lt;/p>
+&lt;p>RSS 订阅中的最大项数。&lt;/p>
+&lt;h3 id="sectionpagesmenu">sectionPagesMenu
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/menus/#define-in-site-configuration" target="_blank" rel="noopener"
+>菜单&lt;/a>。&lt;/p>
+&lt;h3 id="security">security
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/about/security-model/#security-policy" target="_blank" rel="noopener"
+>安全策略&lt;/a>。&lt;/p>
+&lt;h3 id="sitemap">sitemap
+&lt;/h3>&lt;p>默认的&lt;a class="link" href="https://gohugo.io/templates/sitemap-template/#configuration" target="_blank" rel="noopener"
+>站点地图配置&lt;/a>。&lt;/p>
+&lt;h3 id="summarylength">summaryLength
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> 70&lt;/p>
+&lt;p>&lt;code>.Summary&lt;/code> 中显示的文本长度（按照单词计算），用于自动摘要拆分。&lt;/p>
+&lt;h3 id="taxonomies">taxonomies
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/content-management/taxonomies#configure-taxonomies" target="_blank" rel="noopener"
+>配置分类法&lt;/a>。&lt;/p>
+&lt;h3 id="theme">theme
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-imports" target="_blank" rel="noopener"
+>模块配置&lt;/a> 如何导入主题。&lt;/p>
+&lt;h3 id="themesdir">themesDir
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;themes&amp;rdquo;&lt;/p>
+&lt;p>Hugo 从中读取主题的目录。&lt;/p>
+&lt;h3 id="timeout">timeout
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;30s&amp;rdquo;&lt;/p>
+&lt;p>生成页面内容的超时时间，以&lt;a class="link" href="https://pkg.go.dev/time#Duration" target="_blank" rel="noopener"
+>持续时间&lt;/a> 或秒为单位指定。&lt;em>注意：&lt;/em> 这用于递归内容生成的退出。如果您的页面生成缓慢（例如因为它们需要大型图像处理或依赖于远程内容），则可能需要增加此限制。&lt;/p>
+&lt;h3 id="timezone">timeZone
+&lt;/h3>&lt;p>时区（或地理位置），例如 &lt;code>Europe/Oslo&lt;/code>，用于解析没有此类信息的前置元数据日期和&lt;a class="link" href="https://gohugo.io/functions/time/" target="_blank" rel="noopener"
+>&lt;code>time&lt;/code>函数&lt;/a>。有效值列表可能与系统相关，但应包括 &lt;code>UTC&lt;/code>、&lt;code>Local&lt;/code> 和&lt;a class="link" href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones" target="_blank" rel="noopener"
+>IANA 时区数据库&lt;/a> 中的任何位置。&lt;/p>
+&lt;h3 id="title">title
+&lt;/h3>&lt;p>站点标题。&lt;/p>
+&lt;h3 id="titlecasestyle">titleCaseStyle
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> &amp;ldquo;ap&amp;rdquo;&lt;/p>
+&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-title-case" target="_blank" rel="noopener"
+>配置标题大小写&lt;/a>。&lt;/p>
+&lt;h3 id="uglyurls">uglyURLs
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>启用后，URL 将采用 &lt;code>/filename.html&lt;/code> 的形式，而不是 &lt;code>/filename/&lt;/code>。&lt;/p>
+&lt;h3 id="watch">watch
+&lt;/h3>&lt;p>&lt;strong>默认值：&lt;/strong> false&lt;/p>
+&lt;p>监视文件系统的更改，并根据需要重新创建。&lt;/p>
+&lt;blockquote>
+&lt;p>如果您在 *nix 系统上开发您的网站，则以下命令行快捷方式很有用，可以找到配置选项：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">cd ~/sites/yourhugosite
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo config | grep emoji
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>输出示例：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">enableemoji: true
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;/blockquote>
+&lt;h2 id="配置构建">配置构建
+&lt;/h2>&lt;p>&lt;code>build&lt;/code> 配置部分包含全局构建相关的配置选项。&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">build&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">buildStats&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableClasses&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableIDs&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableTags&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">enable&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">cachebusters&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/.*\.(js|ts|jsx|tsx)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">(js|scripts|javascript)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/.*\.(css|sass|scss)$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">(css|styles|scss|sass)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">(postcss|tailwind)\.config\.js&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">(css|styles|scss|sass)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/.*\.(.*)$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">$1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">noJSConfigInAssets&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">useResourceCacheWhen&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">fallback&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="buildstats">buildStats
+&lt;/h3>&lt;p>&lt;a class="link" href="https://github.com/gohugoio/hugo/releases/tag/v0.115.1" target="_blank" rel="noopener"
+>自v0.115.1新增&lt;/a>&lt;/p>
+&lt;p>当启用时，在项目根目录下创建一个 &lt;code>hugo_stats.json&lt;/code> 文件。该文件包含发布站点中每个HTML元素的 &lt;code>class&lt;/code> 属性、&lt;code>id&lt;/code> 属性和标签的数组。在从您的站点中&lt;a class="link" href="https://gohugo.io/hugo-pipes/postprocess/#css-purging-with-postcss" target="_blank" rel="noopener"
+>删除未使用的CSS&lt;/a>时，可以使用此文件作为数据源。这个过程也称为剪枝（pruning）、清理（purging）或摇树（tree shaking）。&lt;/p>
+&lt;p>通过 &lt;code>disableClasses&lt;/code>、&lt;code>disableIDs&lt;/code> 和 &lt;code>disableTags&lt;/code> 键从 &lt;code>hugo_stats.json&lt;/code> 中排除 &lt;code>class&lt;/code> 属性、&lt;code>id&lt;/code> 属性或标签。&lt;/p>
+&lt;blockquote>
+&lt;p>在v0.115.0及更早版本中，通过将 &lt;code>writeStats&lt;/code> 设置为 &lt;code>true&lt;/code> 来启用此功能。虽然仍然可用，但 &lt;code>writeStats&lt;/code> 键将在将来的版本中被弃用。&lt;/p>
+&lt;p>由于CSS清理通常仅限于生产构建，因此将 &lt;code>buildStats&lt;/code> 对象放在 &lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configuration-directory" target="_blank" rel="noopener"
+>config/production&lt;/a> 之后。&lt;/p>
+&lt;p>为了提高速度，解析发布站点时可能会出现“误报”（例如，不是HTML元素的HTML元素）。这些“误报”很少且无关紧要。&lt;/p>
+&lt;p>由于部分服务器构建的性质，新的HTML实体在服务器运行时添加，但旧值在您重新启动服务器或运行常规 &lt;code>hugo&lt;/code> 构建之前不会被删除。&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="cachebusters">cachebusters
+&lt;/h3>&lt;p>参见&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-cache-busters" target="_blank" rel="noopener"
+>配置缓存破坏&lt;/a>&lt;/p>
+&lt;h3 id="nojsconfiginassets">noJSConfigInAssets
+&lt;/h3>&lt;p>关闭将 &lt;code>jsconfig.json&lt;/code> 写入 &lt;code>/assets&lt;/code> 文件夹的功能，并映射从运行的 &lt;a class="link" href="https://gohugo.io/hugo-pipes/js" target="_blank" rel="noopener"
+>js.Build&lt;/a> 导入的内容。此文件旨在帮助代码编辑器（如&lt;a class="link" href="https://code.visualstudio.com/" target="_blank" rel="noopener"
+>VS Code&lt;/a>）中的智能感知/导航。请注意，如果您不使用 &lt;code>js.Build&lt;/code>，则不会写入任何文件。&lt;/p>
+&lt;h3 id="useresourcecachewhen">useResourceCacheWhen
+&lt;/h3>&lt;p>何时使用 &lt;code>/resources/_gen&lt;/code> 中缓存的资源进行 PostCSS 和 ToCSS。有效值为 &lt;code>never&lt;/code>、&lt;code>always&lt;/code> 和 &lt;code>fallback&lt;/code>。最后一个值意味着如果 PostCSS/扩展版本不可用，则尝试使用缓存。&lt;/p>
+&lt;h2 id="配置缓存破坏">配置缓存破坏
+&lt;/h2>&lt;p>&lt;a class="link" href="https://github.com/gohugoio/hugo/releases/tag/v0.112.0" target="_blank" rel="noopener"
+>自 v0.112.0 版新增&lt;/a>&lt;/p>
+&lt;p>添加了 &lt;code>build.cachebusters&lt;/code> 配置选项，以支持使用 Tailwind 3.x 的 JIT 编译器进行开发，其中 &lt;code>build&lt;/code> 配置可能如下所示：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">build&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">buildStats&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">enable&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">cachebusters&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/watching/hugo_stats\.json&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">styles\.css&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">(postcss|tailwind)\.config\.js&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">css&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/.*\.(js|ts|jsx|tsx)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">js&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">source&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">assets/.*\.(.*)$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">target&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">$1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>上面的示例中的一些关键点是 &lt;code>writeStats = true&lt;/code>，它会在每次构建时将一个 &lt;code>hugo_stats.json&lt;/code> 文件与渲染输出中使用的 HTML 类等写入。对此文件的更改将触发 &lt;code>styles.css&lt;/code> 文件的重建。您还需要将 &lt;code>hugo_stats.json&lt;/code> 添加到 Hugo 的服务器监视器中。有关运行示例，请参见 &lt;a class="link" href="https://github.com/bep/hugo-starter-tailwind-basic" target="_blank" rel="noopener"
+>Hugo Starter Tailwind Basic&lt;/a>。&lt;/p>
+&lt;h3 id="source">source
+&lt;/h3>&lt;p>一个匹配与 Hugo 中的一个虚拟组件目录（通常是 &lt;code>assets/...&lt;/code>）相关联的文件的正则表达式。&lt;/p>
+&lt;h3 id="target">target
+&lt;/h3>&lt;p>一个匹配资源缓存中应在 &lt;code>source&lt;/code> 更改时过期的键的正则表达式。您可以在表达式中使用来自 &lt;code>source&lt;/code> 的匹配正则表达式组，例如 &lt;code>$1&lt;/code>。&lt;/p>
+&lt;h2 id="配置服务器">配置服务器
+&lt;/h2>&lt;p>这仅在运行 &lt;code>hugo server&lt;/code> 时相关，它允许在开发过程中设置 HTTP 标头，以便您可以测试内容安全策略等。配置格式与 &lt;a class="link" href="https://docs.netlify.com/routing/headers/#syntax-for-the-netlify-configuration-file" target="_blank" rel="noopener"
+>Netlify&lt;/a> 相匹配，但带有稍微更强大的 &lt;a class="link" href="https://github.com/gobwas/glob" target="_blank" rel="noopener"
+>Glob 匹配&lt;/a>：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">server&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">headers&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">for&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/**&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">values&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">Content-Security-Policy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">script-src localhost:1313&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">Referrer-Policy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">strict-origin-when-cross-origin&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-Content-Type-Options&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">nosniff&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-Frame-Options&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">DENY&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-XSS-Protection&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="l">; mode=block&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>由于这仅适用于“开发”，因此将其放在 &lt;code>development&lt;/code> 环境下可能是有意义的：&lt;/p>
+&lt;p>&lt;code>config/development/server.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">headers&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="nt">for&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/**&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">values&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">Content-Security-Policy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">script-src localhost:1313&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">Referrer-Policy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">strict-origin-when-cross-origin&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-Content-Type-Options&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">nosniff&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-Frame-Options&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">DENY&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">X-XSS-Protection&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="l">; mode=block&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>您还可以为服务器指定简单的重定向规则。语法与 Netlify 类似。&lt;/p>
+&lt;p>请注意，&lt;code>status&lt;/code> 为 200 的情况会触发 &lt;a class="link" href="https://docs.netlify.com/routing/redirects/rewrites-proxies/" target="_blank" rel="noopener"
+>URL 重写&lt;/a>，这在 SPA（单页面应用程序）情况下是您想要的，例如：&lt;/p>
+&lt;p>&lt;code>config/development/server.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">redirects&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="nt">force&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">from&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/myspa/**&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">status&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">200&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">to&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/myspa/&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>将 &lt;code>force=true&lt;/code> 设置为 &lt;code>true&lt;/code> 将使重定向即使路径中存在现有内容也会生效。请注意，在 Hugo 0.76 之前，&lt;code>force&lt;/code> 是默认行为，但与 Netlify 的做法保持一致。&lt;/p>
+&lt;h2 id="404-服务器错误页面">404 服务器错误页面
+&lt;/h2>&lt;p>&lt;a class="link" href="https://github.com/gohugoio/hugo/releases/tag/v0.103.0" target="_blank" rel="noopener"
+>自 v0.103.0 版新增&lt;/a>&lt;/p>
+&lt;p>默认情况下，当运行 &lt;code>hugo server&lt;/code> 时，Hugo 将使用 &lt;code>404.html&lt;/code> 模板渲染所有 404 错误。请注意，如果您已经将一个或多个重定向添加到&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-server" target="_blank" rel="noopener"
+>服务器配置&lt;/a>，您需要显式添加 404 重定向，例如：&lt;/p>
+&lt;p>&lt;code>config/development/server.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">redirects&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="nt">from&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/**&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">status&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">404&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">to&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/404.html&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="配置标题大小写">配置标题大小写
+&lt;/h2>&lt;p>将 &lt;code>titleCaseStyle&lt;/code> 设置为指定 &lt;a class="link" href="https://gohugo.io/functions/title/" target="_blank" rel="noopener"
+>title&lt;/a> 模板函数和 Hugo 中自动生成的章节标题使用的标题样式。&lt;/p>
+&lt;p>可以是以下之一：&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>ap&lt;/code>（默认），&lt;a class="link" href="https://www.apstylebook.com/" target="_blank" rel="noopener"
+>美联社 (AP) 样式指南&lt;/a>中的大写规则。&lt;/li>
+&lt;li>&lt;code>chicago&lt;/code>，&lt;a class="link" href="https://www.chicagomanualofstyle.org/home.html" target="_blank" rel="noopener"
+>芝加哥手册&lt;/a>中的规则。&lt;/li>
+&lt;li>&lt;code>go&lt;/code>，Go 语言中的每个单词都大写。&lt;/li>
+&lt;li>&lt;code>firstupper&lt;/code>，将第一个单词的首字母大写。&lt;/li>
+&lt;li>&lt;code>none&lt;/code>，不使用大写。&lt;/li>
+&lt;/ul>
+&lt;h2 id="配置环境变量">配置环境变量
+&lt;/h2>&lt;h3 id="hugo_numworkermultiplier">HUGO_NUMWORKERMULTIPLIER
+&lt;/h3>&lt;p>可以设置此变量以增加或减少在 Hugo 中并行处理中使用的工作程序数量。如果未设置，将使用逻辑 CPU 的数量。&lt;/p>
+&lt;h2 id="配置查找顺序">配置查找顺序
+&lt;/h2>&lt;p>类似于模板的&lt;a class="link" href="https://gohugo.io/templates/lookup-order/" target="_blank" rel="noopener"
+>查找顺序&lt;/a>，Hugo 在网站源代码目录的根目录中有一组默认规则来搜索配置文件作为默认行为：&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>./hugo.toml&lt;/code>&lt;/li>
+&lt;li>&lt;code>./hugo.yaml&lt;/code>&lt;/li>
+&lt;li>&lt;code>./hugo.json&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;p>在配置文件中，您可以指示 Hugo 如何渲染您的网站，控制网站的菜单，并任意定义特定于项目的全局参数。&lt;/p>
+&lt;h2 id="示例配置">示例配置
+&lt;/h2>&lt;p>以下是配置文件的典型示例。嵌套在 &lt;code>params:&lt;/code> 下的值将填充 &lt;a class="link" href="https://gohugo.io/variables/site/" target="_blank" rel="noopener"
+>&lt;code>.Site.Params&lt;/code>&lt;/a> 变量，供&lt;a class="link" href="https://gohugo.io/templates/" target="_blank" rel="noopener"
+>模板&lt;/a>使用：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">baseURL&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://yoursite.example.com/&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">params&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">AuthorName&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Jon Doe&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">GitHubUser&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">spf13&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">ListOfFoo&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">foo1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">foo2&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">SidebarRecentLimit&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">5&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">Subtitle&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Hugo is Absurdly Fast!&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">permalinks&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">posts&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">/:year/:month/:title/&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">My Hugo Site&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="使用环境变量进行配置">使用环境变量进行配置
+&lt;/h2>&lt;p>除了上述3个配置选项外，还可以通过操作系统环境变量定义配置键值对。&lt;/p>
+&lt;p>例如，以下命令将在类 Unix 系统上有效地设置网站的标题：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">$ env HUGO_TITLE=&amp;#34;Some Title&amp;#34; hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>如果您使用类似 Netlify 的服务部署站点，这非常有用。可以查看 Hugo 文档的 &lt;a class="link" href="https://github.com/gohugoio/hugoDocs/blob/master/netlify.toml" target="_blank" rel="noopener"
+>Netlify 配置文件&lt;/a> 获取示例。&lt;/p>
+&lt;blockquote>
+&lt;p>名称必须以 &lt;code>HUGO_&lt;/code> 为前缀，并且在设置操作系统环境变量时，配置键必须使用大写。&lt;/p>
+&lt;p>要设置配置参数，请将名称以 &lt;code>HUGO_PARAMS_&lt;/code> 为前缀&lt;/p>
+&lt;/blockquote>
+&lt;p>如果使用的是蛇形命名法的变量名，则上述方法将不起作用。Hugo通过 &lt;code>HUGO&lt;/code> 后的第一个字符来确定分隔符的使用方式。这允许您使用任何允许的&lt;a class="link" href="https://stackoverflow.com/questions/2821043/allowed-characters-in-linux-environment-variable-names#:~:text=So%20names%20may%20contain%20any%2C%20printable%20characters%2C%20but%20may%20not%20begin%20with%20a%20digit." target="_blank" rel="noopener"
+>分隔符&lt;/a>在环境变量中定义变量，例如 &lt;code>HUGOxPARAMSxAPI_KEY=abcdefgh&lt;/code>。&lt;/p>
+&lt;h2 id="ignore-content-and-data-files-when-rendering">Ignore content and data files when rendering
+&lt;/h2>&lt;p>&lt;strong>Note:&lt;/strong> This works, but we recommend you use the newer and more powerful &lt;a class="link" href="https://gohugo.io/hugo-modules/configuration/#module-configuration-mounts" target="_blank" rel="noopener"
+>includeFiles and excludeFiles&lt;/a> mount options.&lt;/p>
+&lt;p>To exclude specific files from the &lt;code>content&lt;/code>, &lt;code>data&lt;/code>, and &lt;code>i18n&lt;/code> directories when rendering your site, set &lt;code>ignoreFiles&lt;/code> to one or more regular expressions to match against the absolute file path.&lt;/p>
+&lt;p>To ignore files ending with &lt;code>.foo&lt;/code> or &lt;code>.boo&lt;/code>:&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">ignoreFiles&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="l">\.foo$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="l">\.boo$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>To ignore a file using the absolute file path:&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">ignoreFiles&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>- &lt;span class="l">^/home/user/project/content/test\.md$&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="配置前置元数据">配置前置元数据
+&lt;/h2>&lt;h3 id="配置日期">配置日期
+&lt;/h3>&lt;p>日期在 Hugo 中非常重要，您可以通过向 &lt;code>hugo.toml&lt;/code> 添加 &lt;code>frontmatter&lt;/code> 部分来配置 Hugo 如何为您的内容页面分配日期。&lt;/p>
+&lt;p>默认配置如下：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">frontmatter&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">date&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">date&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">publishDate&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">lastmod&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">expiryDate&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">expiryDate&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">lastmod&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">git&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">lastmod&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">date&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">publishDate&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">publishDate&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">publishDate&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">date&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>例如，如果您的某些内容中有非标准的日期参数，您可以覆盖 &lt;code>date&lt;/code> 的设置：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">frontmatter&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">date&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">myDate&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">default&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>其中 &lt;code>:default&lt;/code> 是默认设置的快捷方式。上述配置将将 &lt;code>.Date&lt;/code> 设置为 &lt;code>myDate&lt;/code> 中的日期值（如果存在），如果不存在，则会查找 &lt;code>date&lt;/code>、&lt;code>publishDate&lt;/code>、&lt;code>lastmod&lt;/code>，并选择第一个有效日期。&lt;/p>
+&lt;p>在右侧的列表中，以“:”开头的值是具有特殊含义的日期处理程序（见下文）。其他值只是您前置元数据配置中的日期参数的名称（不区分大小写）。还请注意，Hugo 对上述内容有一些内置别名：&lt;code>lastmod&lt;/code> =&amp;gt; &lt;code>modified&lt;/code>，&lt;code>publishDate&lt;/code> =&amp;gt; &lt;code>pubdate&lt;/code>，&lt;code>published&lt;/code> 和 &lt;code>expiryDate&lt;/code> =&amp;gt; &lt;code>unpublishdate&lt;/code>。例如，使用 &lt;code>pubDate&lt;/code> 作为前置元数据中的日期，在默认情况下，将分配给 &lt;code>.PublishDate&lt;/code>。&lt;/p>
+&lt;p>特殊的日期处理程序有：&lt;/p>
+&lt;p>&lt;code>:fileModTime&lt;/code>&lt;/p>
+&lt;p>从内容文件的最后修改时间戳中提取日期。&lt;/p>
+&lt;p>例如：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">frontmatter&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">lastmod&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">lastmod&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">fileModTime&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">default&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>上面的配置首先尝试从 &lt;code>lastmod&lt;/code> 前置元数据参数中提取 &lt;code>.Lastmod&lt;/code> 的值，然后从内容文件的修改时间戳中提取日期。最后，&lt;code>:default&lt;/code> 在这里可能不需要，但 Hugo 最终将在 &lt;code>:git&lt;/code>、&lt;code>date&lt;/code> 和 &lt;code>publishDate&lt;/code> 中查找有效日期。&lt;/p>
+&lt;p>&lt;code>:filename&lt;/code>&lt;/p>
+&lt;p>从内容文件的文件名中提取日期。例如，&lt;code>2018-02-22-mypage.md&lt;/code> 将提取日期 &lt;code>2018-02-22&lt;/code>。另外，如果未设置 &lt;code>slug&lt;/code>，将使用 &lt;code>mypage&lt;/code> 作为 &lt;code>.Slug&lt;/code> 的值。&lt;/p>
+&lt;p>例如：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">frontmatter&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">date&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">filename&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="p">:&lt;/span>&lt;span class="l">default&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>上面的配置首先尝试从文件名中提取 &lt;code>.Date&lt;/code> 的值，然后将查找前置元数据参数 &lt;code>date&lt;/code>、&lt;code>publishDate&lt;/code> 和最后是 &lt;code>lastmod&lt;/code>。&lt;/p>
+&lt;p>&lt;code>:git&lt;/code>&lt;/p>
+&lt;p>这是该内容文件的最后一次修订的 Git 作者日期。只有在设置了 &lt;code>--enableGitInfo&lt;/code> 或在站点配置中设置 &lt;code>enableGitInfo = true&lt;/code> 时才会设置这个值。&lt;/p>
+&lt;h2 id="配置额外的输出格式">配置额外的输出格式
+&lt;/h2>&lt;p>Hugo v0.20 引入了将内容渲染为多种输出格式（例如 JSON、AMP html 或 CSV）的能力。有关如何将这些值添加到 Hugo 项目的配置文件的信息，请参阅&lt;a class="link" href="https://gohugo.io/templates/output-formats/" target="_blank" rel="noopener"
+>输出格式&lt;/a>。&lt;/p>
+&lt;h2 id="配置压缩">配置压缩
+&lt;/h2>&lt;p>默认配置如下：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">minify&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableCSS&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableHTML&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableJS&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableJSON&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableSVG&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">disableXML&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">minifyOutput&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">tdewolff&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">css&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepCSS2&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">precision&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepComments&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepConditionalComments&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepDefaultAttrVals&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepDocumentTags&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepEndTags&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepQuotes&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepWhitespace&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">js&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepVarNames&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">precision&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">version&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">2022&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">json&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepNumbers&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">precision&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">svg&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepComments&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">precision&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">xml&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">keepWhitespace&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">false&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="配置文件缓存">配置文件缓存
+&lt;/h2>&lt;p>自 Hugo 0.52 版本开始，您可以配置更多内容，而不仅仅是 &lt;code>cacheDir&lt;/code>。以下是默认配置：&lt;/p>
+&lt;p>&lt;code>hugo.yaml&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">caches&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">assets&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">resourceDir/_gen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">getcsv&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">cacheDir/:project&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">getjson&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">cacheDir/:project&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">getresource&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">cacheDir/:project&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">images&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">resourceDir/_gen&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">modules&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="l">cacheDir/modules&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">maxAge&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>-&lt;span class="m">1&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>您可以在自己的 &lt;code>hugo.yaml&lt;/code> 中覆盖任何这些缓存设置。&lt;/p>
+&lt;h3 id="关键词解释">关键词解释
+&lt;/h3>&lt;p>&lt;code>:cacheDir&lt;/code>&lt;/p>
+&lt;p>请参阅&lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-cachedir" target="_blank" rel="noopener"
+>配置 cacheDir&lt;/a>。&lt;/p>
+&lt;p>&lt;code>:project&lt;/code>&lt;/p>
+&lt;p>当前 Hugo 项目的基本目录名称。这意味着，默认情况下，每个项目都有单独的文件缓存，这意味着当您运行 &lt;code>hugo --gc&lt;/code> 时，不会触及其他运行在同一台计算机上的 Hugo 项目相关的文件。&lt;/p>
+&lt;p>&lt;code>:resourceDir&lt;/code>&lt;/p>
+&lt;p>这是 &lt;code>resourceDir&lt;/code> 配置选项的值。&lt;/p>
+&lt;p>&lt;strong>maxAge&lt;/strong>&lt;/p>
+&lt;p>这是在缓存条目被驱逐之前的持续时间，-1 表示永久保存，0 有效地关闭了特定的缓存。使用 Go 的 &lt;code>time.Duration&lt;/code>，所以有效的值是 &lt;code>&amp;quot;10s&amp;quot;&lt;/code>（10 秒），&lt;code>&amp;quot;10m&amp;quot;&lt;/code>（10 分钟）和 &lt;code>&amp;quot;10h&amp;quot;&lt;/code>（10 小时）。&lt;/p>
+&lt;p>&lt;strong>dir&lt;/strong>&lt;/p>
+&lt;p>缓存文件将存储在其中的绝对路径。允许的起始占位符是 &lt;code>:cacheDir&lt;/code> 和 &lt;code>:resourceDir&lt;/code>（参见上文）。&lt;/p>
+&lt;h2 id="配置格式规范">配置格式规范
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/toml-lang/toml" target="_blank" rel="noopener"
+>TOML 规范&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://yaml.org/spec/" target="_blank" rel="noopener"
+>YAML 规范&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf" target="_blank" rel="noopener"
+>JSON 规范&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="配置-cachedir">配置 cacheDir
+&lt;/h2>&lt;p>这是 Hugo 默认存储文件缓存的目录。详见 &lt;a class="link" href="https://gohugo.io/getting-started/configuration/#configure-file-caches" target="_blank" rel="noopener"
+>配置文件缓存&lt;/a>。&lt;/p>
+&lt;p>可以使用 &lt;code>cacheDir&lt;/code> 配置选项或通过操作系统环境变量 &lt;code>HUGO_CACHEDIR&lt;/code> 来设置它。&lt;/p>
+&lt;p>如果未设置该选项，Hugo 将按以下优先顺序使用：&lt;/p>
+&lt;ol>
+&lt;li>如果在 Netlify 上运行：&lt;code>/opt/build/cache/hugo_cache/&lt;/code>。这意味着如果您在 Netlify 上运行构建，所有配置为 &lt;code>:cacheDir&lt;/code> 的缓存将在下次构建时保存和恢复。对于其他 CI 供应商，请阅读其文档。有关 CircleCI 的示例，请参见 &lt;a class="link" href="https://github.com/bep/hugo-sass-test/blob/6c3960a8f4b90e8938228688bc49bdcdd6b2d99e/.circleci/config.yml" target="_blank" rel="noopener"
+>此配置&lt;/a>。&lt;/li>
+&lt;li>在操作系统用户缓存目录下的 &lt;code>hugo_cache&lt;/code> 目录，由 Go 的 &lt;a class="link" href="https://pkg.go.dev/os#UserCacheDir" target="_blank" rel="noopener"
+>os.UserCacheDir&lt;/a> 定义。在 Unix 系统上，这是 &lt;code>$XDG_CACHE_HOME&lt;/code>，由 &lt;a class="link" href="https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html" target="_blank" rel="noopener"
+>basedir-spec-latest&lt;/a> 指定，如果非空，则为 &lt;code>$HOME/.cache&lt;/code>。在 macOS 上，这是 &lt;code>$HOME/Library/Caches&lt;/code>。在 Windows 上，这是 &lt;code>%LocalAppData%&lt;/code>。在 Plan 9 上，这是 &lt;code>$home/lib/cache&lt;/code>。&lt;a class="link" href="https://github.com/gohugoio/hugo/releases/tag/v0.116.0" target="_blank" rel="noopener"
+>Hugo v0.116.0 中新增&lt;/a>&lt;/li>
+&lt;li>在操作系统临时目录下的 &lt;code>hugo_cache_$USER&lt;/code> 目录。&lt;/li>
+&lt;/ol>
+&lt;p>如果想知道当前的 &lt;code>cacheDir&lt;/code> 值，可以运行 &lt;code>hugo config&lt;/code>，例如：&lt;code>hugo config | grep cachedir&lt;/code>。&lt;/p>
+&lt;h2 id="另请参阅">另请参阅
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://gohugo.io/templates/data-templates/" target="_blank" rel="noopener"
+>数据模板&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://gohugo.io/content-management/front-matter/" target="_blank" rel="noopener"
+>Front matter（前置元数据）&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener"
+>配置标记&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/" target="_blank" rel="noopener"
+>在 GitLab Pages 上托管&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://gohugo.io/about/hugo-and-gdpr/" target="_blank" rel="noopener"
+>Hugo 和《通用数据保护条例》&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>归档</title><link>https://blog.errant.top/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://blog.errant.top/archives/</guid><description/></item><item><title>关于</title><link>https://blog.errant.top/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.errant.top/about/</guid><description>&lt;p>Hi，我是 Errant404，简称 Errant。&lt;/p>
+&lt;h2 id="用户名含义">用户名含义
+&lt;/h2>&lt;h3 id="errant">errant
+&lt;/h3>&lt;blockquote>
+&lt;p>以下内容引自 &lt;a class="link" href="https://en.wiktionary.org/wiki/errant" target="_blank" rel="noopener"
+>Wiktionary&lt;/a>&lt;/p>
+&lt;h4 id="adjective">Adjective
+&lt;/h4>&lt;p>&lt;strong>errant&lt;/strong> (&lt;em>&lt;a class="link" href="https://en.wiktionary.org/wiki/Appendix:Glossary#comparative" target="_blank" rel="noopener"
+>comparative&lt;/a>&lt;/em> &lt;strong>&lt;a class="link" href="https://en.wiktionary.org/wiki/more#English" target="_blank" rel="noopener"
+>more&lt;/a> errant&lt;/strong>, &lt;em>&lt;a class="link" href="https://en.wiktionary.org/wiki/Appendix:Glossary#superlative" target="_blank" rel="noopener"
+>superlative&lt;/a>&lt;/em> &lt;strong>&lt;a class="link" href="https://en.wiktionary.org/wiki/most#English" target="_blank" rel="noopener"
+>most&lt;/a> errant&lt;/strong>)&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://en.wiktionary.org/wiki/stray#Verb" target="_blank" rel="noopener"
+>Straying&lt;/a> from the &lt;a class="link" href="https://en.wiktionary.org/wiki/proper#Adjective" target="_blank" rel="noopener"
+>proper&lt;/a> &lt;a class="link" href="https://en.wiktionary.org/wiki/course#Noun" target="_blank" rel="noopener"
+>course&lt;/a> or &lt;a class="link" href="https://en.wiktionary.org/wiki/standard#Noun" target="_blank" rel="noopener"
+>standard&lt;/a>, or &lt;a class="link" href="https://en.wiktionary.org/wiki/outside#Preposition" target="_blank" rel="noopener"
+>outside&lt;/a> &lt;a class="link" href="https://en.wiktionary.org/wiki/established#Adjective" target="_blank" rel="noopener"
+>established&lt;/a> &lt;a class="link" href="https://en.wiktionary.org/wiki/limit#Noun" target="_blank" rel="noopener"
+>limits&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://en.wiktionary.org/wiki/rove#Verb" target="_blank" rel="noopener"
+>Roving&lt;/a> around; &lt;a class="link" href="https://en.wiktionary.org/wiki/wandering#Adjective" target="_blank" rel="noopener"
+>wandering&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://en.wiktionary.org/wiki/prone#Adjective" target="_blank" rel="noopener"
+>Prone&lt;/a> to &lt;a class="link" href="https://en.wiktionary.org/wiki/make#Verb" target="_blank" rel="noopener"
+>making&lt;/a> &lt;a class="link" href="https://en.wiktionary.org/wiki/error" target="_blank" rel="noopener"
+>errors&lt;/a>; &lt;a class="link" href="https://en.wiktionary.org/wiki/misbehaving#Adjective" target="_blank" rel="noopener"
+>misbehaving&lt;/a>.&lt;/p>
+&lt;p>&lt;em>We ran down the street in pursuit of the &lt;strong>errant&lt;/strong> dog.&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(&lt;em>chiefly with a negative connotation, &lt;a class="link" href="https://en.wiktionary.org/wiki/Appendix:Glossary#obsolete" target="_blank" rel="noopener"
+>obsolete&lt;/a>&lt;/em>) &lt;em>Obsolete form of *&lt;a class="link" href="https://en.wiktionary.org/wiki/arrant#English" target="_blank" rel="noopener"
+>arrant&lt;/a>* (“&lt;a class="link" href="https://en.wiktionary.org/wiki/complete#Adjective" target="_blank" rel="noopener"
+>complete&lt;/a>; &lt;a class="link" href="https://en.wiktionary.org/wiki/downright#Adjective" target="_blank" rel="noopener"
+>downright&lt;/a>, &lt;a class="link" href="https://en.wiktionary.org/wiki/utter#Adjective" target="_blank" rel="noopener"
+>utter&lt;/a>”)&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="noun">Noun
+&lt;/h4>&lt;p>&lt;strong>errant&lt;/strong> (&lt;em>plural&lt;/em> &lt;strong>&lt;a class="link" href="https://en.wiktionary.org/wiki/errants#English" target="_blank" rel="noopener"
+>errants&lt;/a>&lt;/strong>)&lt;/p>
+&lt;ol>
+&lt;li>A &lt;a class="link" href="https://en.wiktionary.org/wiki/knight-errant" target="_blank" rel="noopener"
+>knight-errant&lt;/a>.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h3 id="404">404
+&lt;/h3>&lt;blockquote>
+&lt;p>取自 &lt;a class="link" href="https://zh.wikipedia.org/wiki/HTTP%e7%8a%b6%e6%80%81%e7%a0%81" target="_blank" rel="noopener"
+>HTTP 状态码&lt;/a>中的 &lt;code>404&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="成分">成分
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>键&lt;/th>
+&lt;th>值&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>热爱&lt;/td>
+&lt;td>二次元、开源、折腾 Linux 和 Android（&lt;del>又菜又爱玩&lt;/del>）&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>讨厌&lt;/td>
+&lt;td>抽象、谜语人、简中互联网&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>特征&lt;/td>
+&lt;td>爱做白日梦、多愁善感、有点唯心、轻度社恐、行动力不足&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>工作环境&lt;/td>
+&lt;td>HP Elitebook (Arch Linux) + VSCode / Vim&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>搜索</title><link>https://blog.errant.top/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.errant.top/search/</guid><description/></item><item><title>友链</title><link>https://blog.errant.top/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.errant.top/links/</guid><description>&lt;p>如果你想要让你的名字出现在下面，请模仿下面的格式添加 &lt;code>links&lt;/code> 部分到 frontmatter，然后通过私信或者 issues 告诉我。&lt;/p>
+&lt;p>也欢迎把下面的内容加入你的博客友链中。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Errant404&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Let there be light.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com/Errant404&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://avatars.githubusercontent.com/u/64823753&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
