@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Errant's blog</title><link>https://blog.errant.top/post/</link><description>Recent content in Posts on Errant's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Errant's Blog.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:54:24 +0800</lastBuildDate><atom:link href="https://blog.errant.top/post/index.xml" rel="self" type="application/rss+xml"/><item><title>人生不如一句波特莱尔 - 2023 年终小结</title><link>https://blog.errant.top/post/2023-end-of-year-summary/</link><pubDate>Sun, 31 Dec 2023 23:54:24 +0800</pubDate><guid>https://blog.errant.top/post/2023-end-of-year-summary/</guid><description>&lt;img src="https://blog.errant.top/post/2023-end-of-year-summary/after%20a%20bath-65204496-0.png" alt="Featured image of post 人生不如一句波特莱尔 - 2023 年终小结" />&lt;p>因为我的临场写作能力不太行，但是我总觉得有点写这篇文章的必要，所以这篇文章我是从 12 月份初就开始动笔来写了，平时有想法就当场动手写下来。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Errant's blog</title><link>https://blog.errant.top/post/</link><description>Recent content in Posts on Errant's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Errant's Blog.</copyright><lastBuildDate>Wed, 11 Sep 2024 17:31:27 +0800</lastBuildDate><atom:link href="https://blog.errant.top/post/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenWRT IPv6 配置 NAT 实现上网</title><link>https://blog.errant.top/post/openwrt-ipv6-nat/</link><pubDate>Wed, 11 Sep 2024 17:31:27 +0800</pubDate><guid>https://blog.errant.top/post/openwrt-ipv6-nat/</guid><description>&lt;img src="https://blog.errant.top/post/openwrt-ipv6-nat/OpenWrt_Logo.svg" alt="Featured image of post OpenWRT IPv6 配置 NAT 实现上网" />&lt;p>网上教程大多繁杂，且干扰性强&lt;/p>
+&lt;p>实际上看官方教程就这几步 &lt;a class="link" href="https://openwrt.org/docs/guide-user/firewall/fw3_configurations/fw3_nat#ipv6_nat" target="_blank" rel="noopener"
+>[OpenWrt Wiki] NAT examples&lt;/a>&lt;/p>
+&lt;p>Enable IPv6 masquerading aka NAT66 on the WAN zone.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">uci set firewall.@zone[1].masq6=&amp;#34;1&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">uci commit firewall
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service firewall restart
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Announce IPv6 default route for the ULA prefix.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">uci set dhcp.lan.ra_default=&amp;#34;1&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">uci commit dhcp
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service odhcpd restart
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Disable IPv6 source filter on the upstream interface.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">uci set network.wan6.sourcefilter=&amp;#34;0&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">uci commit network
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">service network restart
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>人生不如一句波特莱尔 - 2023 年终小结</title><link>https://blog.errant.top/post/2023-end-of-year-summary/</link><pubDate>Sun, 31 Dec 2023 23:54:24 +0800</pubDate><guid>https://blog.errant.top/post/2023-end-of-year-summary/</guid><description>&lt;img src="https://blog.errant.top/post/2023-end-of-year-summary/after%20a%20bath-65204496-0.png" alt="Featured image of post 人生不如一句波特莱尔 - 2023 年终小结" />&lt;p>因为我的临场写作能力不太行，但是我总觉得有点写这篇文章的必要，所以这篇文章我是从 12 月份初就开始动笔来写了，平时有想法就当场动手写下来。&lt;/p>
 &lt;h2 id="我做了什么">我做了什么
 &lt;/h2>&lt;h3 id="拥抱-linux">拥抱 Linux
 &lt;/h3>&lt;p>从去年 12 月末，我算是第一次成功在我的笔记本电脑上安装并运行带有正常网卡驱动的 Linux。由于笔记本硬件型号很新，此前我使用过的 Linux 发行版都不能很好地适配我的硬件。&lt;/p>
