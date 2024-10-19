@@ -1272,26 +1272,26 @@ text-align: right;
 &lt;/h2>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align: left">键&lt;/th>
-&lt;th style="text-align: left">值&lt;/th>
+&lt;th>键&lt;/th>
+&lt;th>值&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align: left">热爱&lt;/td>
-&lt;td style="text-align: left">二次元、开源、折腾 Linux 和 Android（&lt;del>又菜又爱玩&lt;/del>）&lt;/td>
+&lt;td>热爱&lt;/td>
+&lt;td>二次元、开源、折腾 Linux 和 Android（&lt;del>又菜又爱玩&lt;/del>）&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">讨厌&lt;/td>
-&lt;td style="text-align: left">抽象、谜语人、简中互联网&lt;/td>
+&lt;td>讨厌&lt;/td>
+&lt;td>抽象、谜语人、简中互联网&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">特征&lt;/td>
-&lt;td style="text-align: left">爱做白日梦、多愁善感、有点唯心、轻度社恐、行动力不足&lt;/td>
+&lt;td>特征&lt;/td>
+&lt;td>爱做白日梦、多愁善感、有点唯心、轻度社恐、行动力不足&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align: left">工作环境&lt;/td>
-&lt;td style="text-align: left">HP Elitebook (Arch Linux) + VSCode / Vim&lt;/td>
+&lt;td>工作环境&lt;/td>
+&lt;td>HP Elitebook (Arch Linux) + VSCode / Vim&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>搜索</title><link>https://blog.errant.top/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.errant.top/search/</guid><description/></item><item><title>友链</title><link>https://blog.errant.top/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.errant.top/links/</guid><description>&lt;p>如果你想要让你的名字出现在下面，请模仿下面的格式添加 &lt;code>links&lt;/code> 部分到 frontmatter，然后通过私信或者 issues 告诉我。&lt;/p>
